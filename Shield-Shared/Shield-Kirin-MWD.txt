@@ -1,4 +1,4 @@
-[Kirin, Shield Fleet Kirin v1.2]
+[Kirin, Shield Fleet Kirin v1.3]
 
 Damage Control II
 Mark I Compact Power Diagnostic System
@@ -20,3 +20,4 @@ Warrior II x1
 
 Navy Cap Booster 400 x22
 Nanite Repair Paste x25
+1MN Afterburner II x1
