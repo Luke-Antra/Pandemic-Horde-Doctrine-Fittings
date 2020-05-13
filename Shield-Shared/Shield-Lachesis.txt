@@ -1,0 +1,36 @@
+[Lachesis, [HORDE] Shield Fleet v2.0]
+
+Damage Control II
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+
+50MN Quad LiF Restrained Microwarpdrive
+Large Shield Extender II
+Adaptive Invulnerability Field II
+Large Shield Extender II
+EM Ward Field II
+Large Shield Extender II
+Republic Fleet Warp Disruptor
+
+Medium EMP Smartbomb II
+Medium EMP Smartbomb II
+200mm Railgun II
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+
+Hornet EC-300 x5
+Warrior II x5
+
+
+Spike M x500
+Federation Navy Antimatter Charge M x500
+Federation Navy Iridium Charge M x500
+Federation Navy Thorium Charge M x500
+Nanite Repair Paste x100
+Standard Mindflood Booster x3
+Overdrive Injector System II x1
+10MN Afterburner II x1
+Mobile Depot x1

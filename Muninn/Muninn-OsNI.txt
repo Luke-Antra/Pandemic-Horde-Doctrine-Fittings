@@ -1,0 +1,31 @@
+[Osprey Navy Issue, Muninn Fleet OsNI v1.0]
+
+Damage Control II
+Ballistic Control System II
+Ballistic Control System II
+Power Diagnostic System II
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+Adaptive Invulnerability Shield Hardener II
+Large Compact Pb-Acid Cap Battery
+Large Shield Extender II
+Adaptive Invulnerability Shield Hardener II
+
+Rapid Light Missile Launcher II, Guristas Scourge Light Missile
+Rapid Light Missile Launcher II, Guristas Scourge Light Missile
+Rapid Light Missile Launcher II, Guristas Scourge Light Missile
+Drone Link Augmentor II
+[Empty High slot]
+
+Medium Hydraulic Bay Thrusters I
+Medium Core Defense Field Extender I
+Medium Anti-EM Screen Reinforcer II
+
+Hornet EC-300 x5
+
+Caldari Navy Scourge Light Missile x2000
+Caldari Navy Inferno Light Missile x1300
+Caldari Navy Nova Light Missile x1300
+Caldari Navy Mjolnir Light Missile x1300
+Nanite Repair Paste x100

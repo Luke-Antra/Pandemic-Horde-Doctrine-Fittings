@@ -1,0 +1,28 @@
+[Lachesis, Muninn Fleet Lachesis v1.0]
+
+Power Diagnostic System II
+Power Diagnostic System II
+Overdrive Injector System II
+Damage Control II
+
+Large Shield Extender II
+50MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+Adaptive Invulnerability Shield Hardener II
+Dark Blood Warp Disruptor
+Large Shield Extender II
+EM Ward Field II
+
+Medium EMP Smartbomb II
+Medium EMP Smartbomb II
+125mm Gatling AutoCannon I
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+Warrior II x5
+Hornet EC-300 x5
+
+EMP S x4000
+Standard Mindflood Booster x3
+Nanite Repair Paste x150
