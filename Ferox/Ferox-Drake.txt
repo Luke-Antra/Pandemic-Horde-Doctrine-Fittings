@@ -1,0 +1,37 @@
+[Drake, Links Drake]
+
+Nanofiber Internal Structure II
+Power Diagnostic System II
+Power Diagnostic System II
+Damage Control II
+
+50MN Quad LiF Restrained Microwarpdrive
+Adaptive Invulnerability Field II
+Adaptive Invulnerability Field II
+EM Ward Field II
+Large Shield Extender II
+Large Shield Extender II
+
+Information Command Burst II
+Medium EMP Smartbomb II
+Information Command Burst II
+Small EMP Smartbomb II
+Medium EMP Smartbomb II
+Information Command Burst II
+Arbalest Compact Light Missile Launcher
+
+Medium Command Processor I
+Medium Command Processor I
+Medium Core Defense Field Extender II
+
+Caldari Navy Mjolnir Light Missile x500
+Nanite Repair Paste x100
+Active Shielding Charge x750
+Shield Harmonizing Charge x750
+Shield Extension Charge x750
+Sensor Optimization Charge x750
+Electronic Superiority Charge x750
+Electronic Hardening Charge x750
+Evasive Maneuvers Charge x750
+Interdiction Maneuvers Charge x750
+Rapid Deployment Charge x750
