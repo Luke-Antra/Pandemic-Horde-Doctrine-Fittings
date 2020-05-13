@@ -1,0 +1,26 @@
+[Basilisk, [HORDE] LOGI IV V2.0]
+Damage Control II
+Power Diagnostic System II
+
+50MN Quad LiF Restrained Microwarpdrive
+Large Shield Extender II
+Large Shield Extender II
+Adaptive Invulnerability Shield Hardener II
+Anti-EM Shield Hardener II
+
+Large Inductive Compact Remote Capacitor Transmitter
+Medium Remote Capacitor Transmitter II
+Large Ancillary Remote Shield Booster
+Large Remote Shield Booster II
+Large Remote Shield Booster II
+Medium Remote Shield Booster II
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+Warrior II x5
+
+Nanite Repair Paste x200
+Navy Cap Booster 150 x90
+Standard Mindflood Booster x1
+10MN Afterburner II x1

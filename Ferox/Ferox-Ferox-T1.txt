@@ -1,0 +1,34 @@
+[Ferox, Doctrine Ferox T1]
+
+Damage Control II
+Mark I Compact Reactor Control Unit
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+
+Anti-EM Shield Hardener II
+Large Shield Extender II
+Large Shield Extender II
+Adaptive Invulnerability Shield Hardener II
+Small F-RX Compact Capacitor Booster
+50MN Cold-Gas Enduring Microwarpdrive
+
+250mm Prototype Gauss Gun
+250mm Prototype Gauss Gun
+250mm Prototype Gauss Gun
+Drone Link Augmentor I
+250mm Prototype Gauss Gun
+250mm Prototype Gauss Gun
+250mm Prototype Gauss Gun
+
+Medium Anti-Thermal Screen Reinforcer II
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+Hornet EC-300 x5
+
+Caldari Navy Thorium Charge M x2000
+Caldari Navy Iridium Charge M x2000
+Caldari Navy Iron Charge M x2000
+Caldari Navy Antimatter Charge M x2000
+Navy Cap Booster 400 x20
+Nanite Repair Paste x100
