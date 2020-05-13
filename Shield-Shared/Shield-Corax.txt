@@ -9,8 +9,8 @@ Medium Azeotropic Restrained Shield Extender
 Adaptive Invulnerability Field II
 
 Defender Launcher I, Defender Missile I
-Arbalest Compact Light Missile Launcher, Scourge Light Missile
-Arbalest Compact Light Missile Launcher, Scourge Light Missile
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
 
 Small Anti-EM Screen Reinforcer I
 Small Core Defense Field Extender I
