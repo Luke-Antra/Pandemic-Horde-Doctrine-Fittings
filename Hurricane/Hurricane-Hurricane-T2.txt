@@ -1,0 +1,37 @@
+[Hurricane, T2 Hurricane]
+
+Gyrostabilizer II
+Gyrostabilizer II
+Gyrostabilizer II
+Damage Control II
+Reactor Control Unit II
+Tracking Enhancer II
+
+Adaptive Invulnerability Field II
+Large Shield Extender II
+50MN Cold-Gas Enduring Microwarpdrive
+Adaptive Invulnerability Field II
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Light Missile Launcher II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+
+Medium Anti-EM Screen Reinforcer II
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+Vespa EC-600 x3
+Hornet EC-300 x2
+
+EMP M x1000
+Republic Fleet EMP M x700
+Republic Fleet Fusion M x700
+Republic Fleet Nuclear M x700
+Republic Fleet Phased Plasma M x700
+Republic Fleet Proton M x700
+Caldari Navy Mjolnir Light Missile x200
+Republic Fleet Depleted Uranium M x700

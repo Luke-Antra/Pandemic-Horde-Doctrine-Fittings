@@ -1,0 +1,20 @@
+[Corax, Defender Corax]
+
+Damage Control II
+Micro Auxiliary Power Core I
+
+Medium Azeotropic Restrained Shield Extender
+Medium Azeotropic Restrained Shield Extender
+5MN Y-T8 Compact Microwarpdrive
+Adaptive Invulnerability Field II
+
+Defender Launcher I, Defender Missile I
+Arbalest Compact Light Missile Launcher, Scourge Light Missile
+Arbalest Compact Light Missile Launcher, Scourge Light Missile
+
+Small Anti-EM Screen Reinforcer I
+Small Core Defense Field Extender I
+Small Core Defense Field Extender I
+
+Scourge Light Missile x1000
+Defender Missile I x50
