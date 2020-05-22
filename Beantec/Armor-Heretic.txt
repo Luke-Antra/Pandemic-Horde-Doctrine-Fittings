@@ -1,0 +1,21 @@
+[Heretic, Armor Fleet Heretic]
+Damage Control II
+400mm Steel Plates II
+Energized Adaptive Nano Membrane II
+
+5MN Y-T8 Compact Microwarpdrive
+Stasis Webifier II
+1MN Afterburner II
+
+Interdiction Sphere Launcher I
+Prototype Cloaking Device I
+Arbalest Compact Light Missile Launcher
+Core Probe Launcher II
+
+Small Trimark Armor Pump II
+Small Trimark Armor Pump II
+
+Warp Disrupt Probe x60
+Caldari Navy Inferno Light Missile x540
+Nanite Repair Paste x75
+Sisters Core Scanner Probe x8

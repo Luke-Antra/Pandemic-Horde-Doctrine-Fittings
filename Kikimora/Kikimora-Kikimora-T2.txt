@@ -1,0 +1,36 @@
+[Kikimora, Ricardomora T2]
+
+Entropic Radiation Sink II
+Damage Control II
+400mm Rolled Tungsten Compact Plates
+Adaptive Nano Plating II
+
+1MN Y-S8 Compact Afterburner
+Balmer Series Compact Tracking Disruptor I
+Balmer Series Compact Tracking Disruptor I
+
+Light Entropic Disintegrator II
+
+Small Trimark Armor Pump I
+Small Anti-Explosive Pump I
+Small Anti-Kinetic Pump I
+
+Inherent Implants 'Squire' Power Grid Management EG-601
+
+Agency 'Pyrolancea' DB7 Dose II
+
+Mystic S x1500
+Occult S x1500
+Baryon Exotic Plasma S x1500
+Meson Exotic Plasma S x1500
+Tetryon Exotic Plasma S x1500
+Missile Precision Disruption Script x2
+Missile Range Disruption Script x2
+Scan Resolution Dampening Script x2
+Optimal Range Disruption Script x2
+Tracking Speed Disruption Script x2
+Fleeting Compact Stasis Webifier x1
+Faint Epsilon Scoped Warp Scrambler x1
+Initiated Compact Warp Disruptor x1
+Balmer Series Compact Tracking Disruptor I x2
+C-IR Compact Guidance Disruptor x2

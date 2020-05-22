@@ -6,7 +6,7 @@ Micro Auxiliary Power Core I
 Medium Azeotropic Restrained Shield Extender
 Medium Azeotropic Restrained Shield Extender
 5MN Y-T8 Compact Microwarpdrive
-Adaptive Invulnerability Field II
+Adaptive Invulnerability Shield Hardener II
 
 Defender Launcher I, Defender Missile I
 Arbalest Compact Light Missile Launcher

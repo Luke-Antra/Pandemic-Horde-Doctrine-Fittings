@@ -1,0 +1,27 @@
+[Cormorant, T1 Longbow Cormorant]
+Vortex Compact Magnetic Field Stabilizer
+Micro Auxiliary Power Core I
+
+5MN Cold-Gas Enduring Microwarpdrive
+Optical Compact Tracking Computer
+F-90 Compact Sensor Booster
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+
+Small Hybrid Locus Coordinator I
+Small Hybrid Locus Coordinator I
+Small Ionic Field Projector I
+
+Caldari Navy Antimatter Charge S x1000
+Optimal Range Script x1
+Tracking Speed Script x1
+Caldari Navy Iridium Charge S x500
+Caldari Navy Tungsten Charge S x1000
+Targeting Range Script x1
+Scan Resolution Script x1

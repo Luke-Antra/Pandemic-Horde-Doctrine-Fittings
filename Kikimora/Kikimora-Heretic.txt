@@ -1,0 +1,34 @@
+[Heretic, Anchorboyo]
+
+IFFA Compact Damage Control
+400mm Rolled Tungsten Compact Plates
+Adaptive Nano Plating II
+
+1MN Y-S8 Compact Afterburner
+Balmer Series Compact Tracking Disruptor I
+Balmer Series Compact Tracking Disruptor I
+
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Interdiction Sphere Launcher I
+
+Small Trimark Armor Pump II
+Small Ancillary Current Router I
+
+Missile Precision Disruption Script x2
+Missile Range Disruption Script x2
+Warp Disrupt Probe x50
+Caldari Navy Mjolnir Light Missile x1000
+Scan Resolution Dampening Script x2
+Targeting Range Dampening Script x2
+Tracking Speed Disruption Script x2
+Mobile Cynosural Inhibitor x1
+1MN Monopropellant Enduring Afterburner x1
+Phased Muon Scoped Sensor Dampener x2
+C-IR Compact Guidance Disruptor x2
+Optimal Range Disruption Script x2

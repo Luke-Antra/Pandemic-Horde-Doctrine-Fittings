@@ -1,11 +1,11 @@
 [Flycatcher, Shield Fleet Flycatcher]
 Damage Control II
 
-Adaptive Invulnerability Field II
+Adaptive Invulnerability Shield Hardener II
 5MN Y-T8 Compact Microwarpdrive
 Medium Shield Extender II
 Medium Shield Extender II
-EM Ward Field II
+Anti-EM Shield Hardener II
 
 Prototype Cloaking Device I
 125mm Gatling AutoCannon II

@@ -1,0 +1,34 @@
+[Osprey Navy Issue, MWD ONI Horde]
+
+Damage Control II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+
+50MN Quad LiF Restrained Microwarpdrive
+Large Shield Extender II
+Anti-EM Shield Hardener II
+Large Shield Extender II
+Small Capacitor Booster II, Navy Cap Booster 400
+Adaptive Invulnerability Shield Hardener II
+
+Rapid Light Missile Launcher II
+200mm Railgun II
+Rapid Light Missile Launcher II
+200mm Railgun II
+Rapid Light Missile Launcher II
+
+Medium Rocket Fuel Cache Partition I
+Medium Ionic Field Projector I
+Medium Hydraulic Bay Thrusters I
+
+Warrior II x5
+
+Spike M x600
+Caldari Navy Antimatter Charge M x600
+Caldari Navy Scourge Light Missile x1000
+Caldari Navy Inferno Light Missile x1000
+Caldari Navy Nova Light Missile x1000
+Caldari Navy Mjolnir Light Missile x1000
+Nanite Repair Paste x50
+Navy Cap Booster 400 x30

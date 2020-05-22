@@ -1,0 +1,43 @@
+[Megathron, Beantec Megathron T2]
+
+1600mm Steel Plates II
+1600mm Steel Plates II
+Armor Explosive Hardener II
+IFFA Compact Damage Control
+Armor Kinetic Hardener II
+Armor Thermal Hardener II
+Adaptive Nano Plating II
+Magnetic Field Stabilizer II
+
+500MN Y-T8 Compact Microwarpdrive
+F-90 Compact Sensor Booster
+Medium F-RX Compact Capacitor Booster
+Optical Compact Tracking Computer
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+
+Large Anti-EM Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+Bouncer I x2
+Acolyte II x5
+
+ECCM Script x1
+Caldari Navy Thorium Charge L x1800
+Optimal Range Script x1
+Tracking Speed Script x1
+Spike L x1800
+Caldari Navy Antimatter Charge L x1800
+Caldari Navy Iron Charge L x1800
+Navy Cap Booster 800 x23
+Targeting Range Script x1
+Scan Resolution Script x1
+Caldari Navy Iridium Charge L x1800
+Nanite Repair Paste x100

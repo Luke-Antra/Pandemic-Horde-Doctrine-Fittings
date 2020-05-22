@@ -1,0 +1,31 @@
+[Purifier, Ricardomora Purifier]
+
+Imperial Navy 200mm Steel Plates
+Damage Control II
+Energized Adaptive Nano Membrane II
+
+Balmer Series Compact Tracking Disruptor I
+1MN Afterburner II
+Balmer Series Compact Tracking Disruptor I
+
+Bomb Launcher I
+Prototype 'Arbalest' Torpedo Launcher
+Prototype 'Arbalest' Torpedo Launcher
+Prototype 'Arbalest' Torpedo Launcher
+
+Small Trimark Armor Pump II
+Small Trimark Armor Pump II
+
+Agency 'Pyrolancea' DB5 Dose II
+
+Focused Void Bomb x2
+Shrapnel Bomb x2
+Missile Precision Disruption Script x2
+Missile Range Disruption Script x2
+Scan Resolution Dampening Script x2
+Targeting Range Dampening Script x2
+Caldari Navy Mjolnir Torpedo x1000
+Tracking Speed Disruption Script x2
+Phased Muon Scoped Sensor Dampener x2
+C-IR Compact Guidance Disruptor x2
+Optimal Range Disruption Script x2

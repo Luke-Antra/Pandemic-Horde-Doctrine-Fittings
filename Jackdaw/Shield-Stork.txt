@@ -1,0 +1,25 @@
+[Stork, [HORDE] Stork [MWD/AB]]
+
+Nanofiber Internal Structure II
+Damage Control II
+
+5MN Y-T8 Compact Microwarpdrive
+Caldari Navy Medium Shield Extender
+Adaptive Invulnerability Shield Hardener II
+EM Ward Amplifier II
+Caldari Navy Medium Shield Extender
+Adaptive Invulnerability Shield Hardener II
+
+Shield Command Burst II
+Shield Command Burst II
+Arbalest Compact Light Missile Launcher
+
+Small Command Processor I
+Small Core Defense Field Extender II
+
+Caldari Navy Mjolnir Light Missile x250
+Nanite Repair Paste x100
+Active Shielding Charge x300
+Shield Extension Charge x300
+Shield Harmonizing Charge x300
+1MN Afterburner II x1

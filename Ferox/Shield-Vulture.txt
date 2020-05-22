@@ -8,9 +8,9 @@ Power Diagnostic System II
 50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
 Large Shield Extender II
-EM Ward Field II
-Adaptive Invulnerability Field II
-Adaptive Invulnerability Field II
+Anti-EM Shield Hardener II
+Adaptive Invulnerability Shield Hardener II
+Adaptive Invulnerability Shield Hardener II
 
 250mm Railgun II
 250mm Railgun II

@@ -1,0 +1,45 @@
+[Apocalypse, [HORDE] Apoc, Beantec 1.1 T2]
+
+Dark Blood Armor Thermal Hardener
+1600mm Steel Plates II
+Damage Control II
+Shadow Serpentis Armor Kinetic Hardener
+1600mm Steel Plates II
+Heat Sink II
+Federation Navy Armor Explosive Hardener
+
+500MN Quad LiF Restrained Microwarpdrive
+F-90 Compact Sensor Booster
+Medium Capacitor Booster II
+Tracking Computer II
+
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+
+Large Anti-EM Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+Acolyte II x5
+Bouncer II x2
+
+Microwave L x8
+Imperial Navy Multifrequency L x8
+ECCM Script x1
+Gamma L x8
+Optimal Range Script x1
+Imperial Navy Standard L x8
+Nanite Repair Paste x150
+Navy Cap Booster 800 x30
+Imperial Navy Radio L x8
+Targeting Range Script x1
+Scan Resolution Script x1
+Tracking Speed Script x1
+Aurora L x8
+Gleam L x8

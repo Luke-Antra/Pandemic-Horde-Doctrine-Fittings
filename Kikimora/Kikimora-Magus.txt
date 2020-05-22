@@ -1,0 +1,31 @@
+[Magus, Ricardomoras]
+
+400mm Rolled Tungsten Compact Plates
+Adaptive Nano Plating II
+Damage Control II
+Adaptive Nano Plating II
+
+Micro Jump Field Generator
+1MN Y-S8 Compact Afterburner
+Peripheral Compact Target Painter
+Small F-RX Compact Capacitor Booster
+
+Skirmish Command Burst II
+Skirmish Command Burst II
+75mm Gatling Rail I
+
+Small Command Processor I
+Small Anti-Explosive Pump II
+
+Hammerhead II x2
+Warrior II x3
+
+Armor Energizing Charge x300
+Armor Reinforcement Charge x300
+Rapid Repair Charge x300
+Navy Cap Booster 200 x40
+Evasive Maneuvers Charge x300
+Armor Command Burst II x2
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x300
+Thorium Charge S x500

@@ -1,0 +1,56 @@
+[Eagle, [HORDE] (MWD) Eagle V1.0]
+
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Assault Damage Control II
+Reactor Control Unit II
+
+50MN Quad LiF Restrained Microwarpdrive
+Large Shield Extender II
+Adaptive Invulnerability Shield Hardener II
+Small Capacitor Booster II
+Large Shield Extender II
+Anti-EM Shield Hardener II
+
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+Warrior II x5
+
+Javelin M x2000
+Spike M x2000
+Navy Cap Booster 400 x21
+Missile Precision Disruption Script x1
+Missile Range Disruption Script x1
+Federation Navy Antimatter Charge M x2000
+Federation Navy Iridium Charge M x2000
+Federation Navy Thorium Charge M x2000
+Federation Navy Tungsten Charge M x2000
+Nanite Repair Paste x200
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
+Scan Resolution Dampening Script x1
+Targeting Range Dampening Script x1
+Optimal Range Disruption Script x1
+Tracking Speed Disruption Script x1
+Optimal Range Script x1
+Tracking Speed Script x1
+Hornet EC-300 x5
+Agency 'Pyrolancea' DB5 Dose II x1
+Synth Drop Booster x1
+Synth Frentix Booster x1
+Magnetic Field Stabilizer II x1
+10MN Y-S8 Compact Afterburner x1
+Sensor Booster II x1
+Remote Sensor Dampener II x1
+Tracking Computer II x1
+Guidance Disruptor II x1
+Tracking Disruptor II x1
+Mobile Depot x1

@@ -1,0 +1,28 @@
+[Augoror, MWD Augoror]
+800mm Steel Plates II
+Damage Control II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Mark I Compact Reactor Control Unit
+
+50MN Cold-Gas Enduring Microwarpdrive
+Sensor Booster II
+Small F-RX Compact Capacitor Booster
+
+Medium Inductive Compact Remote Capacitor Transmitter
+Medium Coaxial Compact Remote Armor Repairer
+Medium Coaxial Compact Remote Armor Repairer
+Medium Coaxial Compact Remote Armor Repairer
+Medium Inductive Compact Remote Capacitor Transmitter
+
+Medium Anti-Explosive Pump I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+Acolyte II x4
+
+Targeting Range Script x1
+Scan Resolution Script x1
+Nanite Repair Paste x25
+Navy Cap Booster 400 x26
+ECCM Script x1

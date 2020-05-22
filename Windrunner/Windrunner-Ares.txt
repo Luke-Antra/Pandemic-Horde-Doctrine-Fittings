@@ -1,0 +1,22 @@
+[Ares, Windrunner Ares]
+
+Gyrostabilizer II
+Inertial Stabilizers II
+Inertial Stabilizers II
+Micro Auxiliary Power Core I
+
+5MN Y-T8 Compact Microwarpdrive
+Warp Disruptor II
+Faint Epsilon Scoped Warp Scrambler
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+
+Small Low Friction Nozzle Joints I
+Small Projectile Collision Accelerator II
+
+Republic Fleet EMP S x1000
+Republic Fleet Fusion S x1000
+Republic Fleet Phased Plasma S x1000
+Nanite Repair Paste x25

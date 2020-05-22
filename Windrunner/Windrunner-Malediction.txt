@@ -1,0 +1,22 @@
+[Malediction, Windrunner Malediction]
+
+Micro Auxiliary Power Core I
+Gyrostabilizer II
+Inertial Stabilizers II
+Inertial Stabilizers II
+
+5MN Y-T8 Compact Microwarpdrive
+Warp Disruptor II
+Warp Scrambler II
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+
+Small Low Friction Nozzle Joints II
+Small Projectile Collision Accelerator II
+
+Republic Fleet EMP S x1000
+Republic Fleet Fusion S x1000
+Republic Fleet Phased Plasma S x1000
+Nanite Repair Paste x25

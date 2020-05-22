@@ -1,0 +1,24 @@
+[Osprey, Shield Fleet Osprey Mk3]
+Damage Control II
+Mark I Compact Power Diagnostic System
+Mark I Compact Reactor Control Unit
+
+Adaptive Invulnerability Shield Hardener II
+50MN Y-T8 Compact Microwarpdrive
+Large F-S9 Regolith Compact Shield Extender
+Large F-S9 Regolith Compact Shield Extender
+Anti-EM Shield Hardener II
+
+Medium Murky Compact Remote Shield Booster
+Medium Murky Compact Remote Shield Booster
+Medium Murky Compact Remote Shield Booster
+Medium Inductive Compact Remote Capacitor Transmitter
+Medium Inductive Compact Remote Capacitor Transmitter
+
+Medium Anti-Thermal Screen Reinforcer I
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+Warrior I x4
+
+Nanite Repair Paste x50

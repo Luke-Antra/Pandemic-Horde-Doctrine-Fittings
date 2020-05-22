@@ -1,0 +1,71 @@
+
+May 2020
+Adaptive Invulnerability Field → Adaptive Invulnerability Shield Hardener
+EM Ward Field → Anti-EM Shield Hardener
+Explosive Deflection Field → Anti-Explosive Shield Hardener
+Kinetic Deflection Field → Anti-Kinetic Shield Hardener
+Thermal Dissipation Field → Anti-Thermal Shield Hardener
+
+Limited Adaptive Invulnerability Shield Hardener I → Compact Adaptive Invulnerability Shield Hardener
+Limited 'Anointed' EM Ward Field → Compact Anti-EM Shield Hardener
+Limited Explosive Deflection Field I → Compact Anti-Explosive Shield Hardener
+Limited Kinetic Deflection Field I → Compact Anti-Kinetic Shield Hardener
+Limited Thermal Dissipation Field I → Compact Anti-Thermal Shield Hardener
+
+
+March 2020
+Micro Electrochemical Capacitor Booster I renamed to 'Seed' Micro Capacitor Booster I
+Small Electrochemical Capacitor Booster I renamed to Small F-RX Compact Capacitor Booster
+Medium Electrochemical Capacitor Booster I renamed to Medium F-RX Compact Capacitor Booster
+Heavy Electrochemical Capacitor Booster I renamed to Heavy F-RX Compact Capacitor Booster
+
+Micro Brief Capacitor Overcharge I converted to 'Seed' Micro Capacitor Booster I
+Micro Tapered Capacitor Infusion I converted to 'Seed' Micro Capacitor Booster I
+Micro F-RX Prototype Capacitor Boost converted to 'Seed' Micro Capacitor Booster I
+Micro Capacitor Booster I converted to 'Seed' Micro Capacitor Booster I
+Micro Capacitor Booster II converted to 'Seed' Micro Capacitor Booster I
+Ammatar Navy Micro Capacitor Booster converted to 'Seed' Micro Capacitor Booster I
+Dark Blood Micro Capacitor Booster converted to 'Seed' Micro Capacitor Booster I
+True Sansha Micro Capacitor Booster converted to 'Seed' Micro Capacitor Booster I
+Imperial Navy Micro Capacitor Booster converted to 'Seed' Micro Capacitor Booster I
+Small Brief Capacitor Overcharge I converted to Small F-RX Compact Capacitor Booster
+Small Tapered Capacitor Infusion I converted to Small F-RX Compact Capacitor Booster
+Small F-RX Prototype Capacitor Boost converted to Small F-RX Compact Capacitor Booster
+Medium Brief Capacitor Overcharge I converted to Medium F-RX Compact Capacitor Booster
+Medium Tapered Capacitor Infusion I converted to Medium F-RX Compact Capacitor Booster
+Medium F-RX Prototype Capacitor Boost converted to Medium F-RX Compact Capacitor Booster
+Heavy Brief Capacitor Overcharge I converted to Heavy F-RX Compact Capacitor Booster
+Heavy Tapered Capacitor Infusion I converted to Heavy F-RX Compact Capacitor Booster
+Heavy F-RX Prototype Capacitor Boost converted to Heavy F-RX Compact Capacitor Booster
+
+February 2020
+Small Asymmetric Remote Capacitor Transmitter renamed to Small Radiative Scoped Remote Capacitor Transmitter
+Small 'Regard' Remote Capacitor Transmitter renamed to Small Inductive Compact Remote Capacitor Transmitter
+Medium Asymmetric Remote Capacitor Transmitter renamed to Medium Radiative Scoped Remote Capacitor Transmitter
+Medium 'Regard' Remote Capacitor Transmitter renamed to Medium Inductive Compact Remote Capacitor Transmitter
+Large Asymmetric Remote Capacitor Transmitter renamed to Large Radiative Scoped Remote Capacitor Transmitter
+Large 'Regard' Remote Capacitor Transmitter renamed to Large Inductive Compact Remote Capacitor Transmitter
+
+Small Partial E95a Remote Capacitor Transmitter converted to Small Radiative Scoped Remote Capacitor Transmitter
+Small Murky Remote Capacitor Transmitter converted to Small Inductive Compact Remote Capacitor Transmitter
+Medium Partial E95b Remote Capacitor Transmitter converted to Medium Radiative Scoped Remote Capacitor Transmitter
+Medium Murky Remote Capacitor Transmitter converted to Medium Inductive Compact Remote Capacitor Transmitter
+Large Partial E95c Remote Capacitor Transmitter converted to Large Radiative Scoped Remote Capacitor Transmitter
+Large Murky Remote Capacitor Transmitter converted to Large Inductive Compact Remote Capacitor Transmitter
+
+January 2020
+
+mall 'Accommodation' Vestment Reconstructer I renamed to Small ACM Compact Armor Repairer
+Small I-a Polarized Armor Regenerator renamed to Small I-a Enduring Armor Repairer
+Medium 'Accommodation' Vestment Reconstructer I renamed to Medium ACM Compact Armor Repairer
+Medium I-a Polarized Armor Regenerator renamed to Medium I-a Enduring Armor Repairer
+Large 'Accommodation' Vestment Reconstructer I renamed to Large ACM Compact Armor Repairer
+Large I-a Polarized Armor Regenerator renamed to Large I-a Enduring Armor Repairer
+
+Small Inefficient Armor Repair Unit converted to Small ACM Compact Armor Repairer
+Small Automated Carapace Restoration converted to Small I-a Enduring Armor Repairer
+Medium Inefficient Armor Repair Unit converted to Medium ACM Compact Armor Repairer
+Medium Automated Carapace Restoration converted to Medium I-a Enduring Armor Repairer
+Medium Nano Armor Repair Unit I converted to 'Meditation' Medium Armor Repairer I
+Large Inefficient Armor Repair Unit converted to Large ACM Compact Armor Repairer
+Large Automated Carapace Restoration converted to Large I-a Enduring Armor Repairer

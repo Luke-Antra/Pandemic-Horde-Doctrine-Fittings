@@ -1,0 +1,48 @@
+[Bhaalgorn, Advanced T2 Bhaalgorn]
+
+Imperial Navy 1600mm Steel Plates
+Damage Control II
+Imperial Navy Energized Adaptive Nano Membrane
+True Sansha Armor Thermal Hardener
+True Sansha Armor Kinetic Hardener
+True Sansha Armor Explosive Hardener
+Heat Sink II
+
+500MN Quad LiF Restrained Microwarpdrive
+Sensor Booster II
+Tracking Computer II
+Medium F-RX Compact Capacitor Booster
+Tracking Computer II
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Heavy Infectious Scoped Energy Neutralizer
+Heavy Infectious Scoped Energy Neutralizer
+Dark Blood Heavy Energy Nosferatu
+
+Large Energy Locus Coordinator II
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+Valkyrie II x5
+Warden II x4
+
+Aurora L x4
+Gleam L x4
+Navy Cap Booster 800 x30
+Imperial Navy Multifrequency L x4
+Imperial Navy Radio L x4
+True Sanshas Standard L x4
+True Sanshas Xray L x4
+Nanite Repair Paste x300
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
+Optimal Range Script x2
+Tracking Speed Script x2
+Agency 'Pyrolancea' DB5 Dose II x1
+Antipharmakon Iokira x1
+Standard Drop Booster x1
+Caldari Navy Stasis Webifier x1

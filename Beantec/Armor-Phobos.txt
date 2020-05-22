@@ -1,0 +1,33 @@
+[Phobos, Armor Fleet Phobos]
+
+Damage Control II
+1600mm Steel Plates II
+1600mm Steel Plates II
+Energized Adaptive Nano Membrane II
+Armor EM Hardener II
+Armor Explosive Hardener II
+
+50MN Y-T8 Compact Microwarpdrive
+Sensor Booster II
+Sensor Booster II
+Small Capacitor Booster II
+
+Warp Disruption Field Generator II
+Warp Disruption Field Generator II
+150mm Light AutoCannon II
+Small Energy Nosferatu II
+Small Energy Nosferatu II
+Small Energy Nosferatu II
+
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+
+Navy Cap Booster 400 x30
+Nanite Repair Paste x150
+EMP S x5000
+ECCM Script x2
+Scan Resolution Script x2
+Targeting Range Script x2
+Focused Warp Disruption Script x2
+Focused Warp Scrambling Script x2
+10MN Afterburner II x1

@@ -1,0 +1,46 @@
+[Bhaalgorn, [HORDE] Bhaal, Beantec 1.0 T2]
+
+1600mm Steel Plates II
+1600mm Steel Plates II
+Damage Control II
+Heat Sink II
+Domination Armor Kinetic Hardener
+True Sansha Armor Explosive Hardener
+True Sansha Armor Thermal Hardener
+
+500MN Quad LiF Restrained Microwarpdrive
+Sensor Booster II
+Medium Capacitor Booster II
+Caldari Navy Stasis Webifier
+Tracking Computer II
+
+Tachyon Beam Laser II
+Heavy Knave Scoped Energy Nosferatu
+Tachyon Beam Laser II
+Heavy Knave Scoped Energy Nosferatu
+Tachyon Beam Laser II
+Large 'Vehemence' Shockwave Charge
+Tachyon Beam Laser II
+
+Large Anti-EM Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+Acolyte II x5
+Hornet EC-300 x5
+Bouncer II x4
+
+Aurora L x4
+Gleam L x4
+Navy Cap Booster 800 x30
+Imperial Navy Microwave L x4
+Imperial Navy Multifrequency L x4
+Imperial Navy Radio L x4
+Imperial Navy Standard L x4
+Imperial Navy Gamma L x4
+Nanite Repair Paste x150
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
+Optimal Range Script x1
+Tracking Speed Script x1

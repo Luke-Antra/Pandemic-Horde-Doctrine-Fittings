@@ -7,7 +7,7 @@ Ballistic Control System II
 Medium Shield Extender II
 Medium Shield Extender II
 5MN Y-T8 Compact Microwarpdrive
-Adaptive Invulnerability Field II
+Adaptive Invulnerability Shield Hardener II
 EM Ward Amplifier II
 
 Arbalest Compact Light Missile Launcher

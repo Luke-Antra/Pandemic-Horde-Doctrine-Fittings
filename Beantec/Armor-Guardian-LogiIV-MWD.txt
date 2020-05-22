@@ -1,0 +1,31 @@
+[Guardian, [HORDE] Guardian [MWD][LOGI IV] v2.0]
+
+1600mm Steel Plates II
+Energized Adaptive Nano Membrane II
+True Sansha Armor EM Hardener
+Dark Blood Armor Thermal Hardener
+Damage Control II
+
+Sensor Booster II
+50MN Quad LiF Restrained Microwarpdrive
+
+Medium Remote Armor Repairer II
+Medium Remote Armor Repairer II
+Medium Remote Armor Repairer II
+Medium Remote Armor Repairer II
+Large Ancillary Remote Armor Repairer, Nanite Repair Paste
+Large Inductive Compact Remote Capacitor Transmitter
+
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+
+Acolyte II x5
+
+Standard Mindflood Booster
+
+Nanite Repair Paste x300
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
+Standard Mindflood Booster x2
+True Sansha Armor Kinetic Hardener x1
