@@ -1,9 +1,9 @@
 [Oneiros, [HORDE]Oneiros, Beantec 1.1]
 
-Armor Explosive Hardener II
+Explosive Armor Hardener II
 1600mm Steel Plates II
 Energized Adaptive Nano Membrane II
-Armor EM Hardener II
+EM Armor Hardener II
 Damage Control II
 
 50MN Quad LiF Restrained Microwarpdrive

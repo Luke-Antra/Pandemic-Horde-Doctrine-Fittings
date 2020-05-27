@@ -12,6 +12,6 @@ Target Painter II
 125mm Gatling AutoCannon I, Republic Fleet EMP S
 
 Small Trimark Armor Pump II
-Small Anti-Explosive Pump II
+Small Explosive Armor Reinforcer II
 
 Standard X-Instinct Booster

@@ -15,7 +15,7 @@ Skirmish Command Burst II
 75mm Gatling Rail I
 
 Small Command Processor I
-Small Anti-Explosive Pump II
+Small Explosive Armor Reinforcer II
 
 Hammerhead II x2
 Warrior II x3

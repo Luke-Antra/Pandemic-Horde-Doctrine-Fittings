@@ -8,10 +8,10 @@ Damage Control II
 Large Shield Extender II
 50MN Cold-Gas Enduring Microwarpdrive
 Large Shield Extender II
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 Dark Blood Warp Disruptor
 Large Shield Extender II
-Anti-EM Shield Hardener II
+EM Shield Hardener II
 
 Medium EMP Smartbomb II
 Medium EMP Smartbomb II

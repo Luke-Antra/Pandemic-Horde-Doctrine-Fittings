@@ -2,10 +2,10 @@
 
 1600mm Steel Plates II
 1600mm Steel Plates II
-Armor Explosive Hardener II
+Explosive Armor Hardener II
 IFFA Compact Damage Control
-Armor Kinetic Hardener II
-Armor Thermal Hardener II
+Kinetic Armor Hardener II
+Thermal Armor Hardener II
 Adaptive Nano Plating II
 Magnetic Field Stabilizer II
 
@@ -22,7 +22,7 @@ Optical Compact Tracking Computer
 425mm Railgun II
 425mm Railgun II
 
-Large Anti-EM Pump I
+Large EM Armor Reinforcer I
 Large Trimark Armor Pump I
 Large Trimark Armor Pump I
 

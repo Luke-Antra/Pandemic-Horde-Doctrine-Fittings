@@ -7,10 +7,10 @@ Damage Control II
 Reactor Control Unit II
 Tracking Enhancer II
 
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 Large Shield Extender II
 50MN Cold-Gas Enduring Microwarpdrive
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 
 720mm Howitzer Artillery II
 720mm Howitzer Artillery II
@@ -20,7 +20,7 @@ Light Missile Launcher II
 720mm Howitzer Artillery II
 720mm Howitzer Artillery II
 
-Medium Anti-EM Screen Reinforcer II
+Medium EM Shield Reinforcer II
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 

@@ -7,10 +7,10 @@ Ballistic Control System II
 
 50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
-Anti-EM Shield Hardener II
+EM Shield Hardener II
 Large Shield Extender II
 Small Capacitor Booster II, Navy Cap Booster 400
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 
 Rapid Light Missile Launcher II
 200mm Railgun II

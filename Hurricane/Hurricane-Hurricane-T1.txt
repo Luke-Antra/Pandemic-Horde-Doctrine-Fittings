@@ -7,10 +7,10 @@ Mark I Compact Reactor Control Unit
 Mark I Compact Reactor Control Unit
 Tracking Enhancer II
 
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 Large Shield Extender II
 50MN Cold-Gas Enduring Microwarpdrive
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 
 720mm Prototype Siege Cannon
 720mm Prototype Siege Cannon
@@ -20,7 +20,7 @@ Upgraded 'Malkuth' Rapid Light Missile Launcher
 720mm Prototype Siege Cannon
 720mm Prototype Siege Cannon
 
-Medium Anti-EM Screen Reinforcer II
+Medium EM Shield Reinforcer II
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 

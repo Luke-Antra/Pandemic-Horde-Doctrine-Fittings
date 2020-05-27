@@ -1,12 +1,12 @@
 [Apocalypse, [HORDE] Apoc, Beantec 1.1 T1]
 
-Dark Blood Armor Thermal Hardener
+Dark Blood Thermal Armor Hardener
 1600mm Steel Plates II
 Damage Control II
-Shadow Serpentis Armor Kinetic Hardener
+Shadow Serpentis Kinetic Armor Hardener
 1600mm Steel Plates II
 Heat Sink II
-Federation Navy Armor Explosive Hardener
+Federation Navy Explosive Armor Hardener
 
 500MN Quad LiF Restrained Microwarpdrive
 F-90 Compact Sensor Booster
@@ -22,7 +22,7 @@ Mega Modulated Energy Beam I
 Mega Modulated Energy Beam I
 Mega Modulated Energy Beam I
 
-Large Anti-EM Pump I
+Large EM Armor Reinforcer I
 Large Trimark Armor Pump I
 Large Trimark Armor Pump I
 

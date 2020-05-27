@@ -12,8 +12,8 @@ Balmer Series Compact Tracking Disruptor I
 Light Entropic Disintegrator II
 
 Small Trimark Armor Pump I
-Small Anti-Explosive Pump I
-Small Anti-Kinetic Pump I
+Small Explosive Armor Reinforcer I
+Small Kinetic Armor Reinforcer I
 
 Inherent Implants 'Squire' Power Grid Management EG-601
 

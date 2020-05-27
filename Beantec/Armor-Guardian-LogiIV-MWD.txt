@@ -2,8 +2,8 @@
 
 1600mm Steel Plates II
 Energized Adaptive Nano Membrane II
-True Sansha Armor EM Hardener
-Dark Blood Armor Thermal Hardener
+True Sansha EM Armor Hardener
+Dark Blood Thermal Armor Hardener
 Damage Control II
 
 Sensor Booster II
@@ -28,4 +28,4 @@ ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
 Standard Mindflood Booster x2
-True Sansha Armor Kinetic Hardener x1
+True Sansha Kinetic Armor Hardener x1

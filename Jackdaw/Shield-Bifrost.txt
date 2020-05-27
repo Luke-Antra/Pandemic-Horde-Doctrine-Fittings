@@ -6,7 +6,7 @@ IFFA Compact Damage Control
 
 5MN Y-T8 Compact Microwarpdrive
 Republic Fleet Medium Shield Extender
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 EM Ward Amplifier II
 Republic Fleet Medium Shield Extender
 

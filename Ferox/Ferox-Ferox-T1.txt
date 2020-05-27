@@ -5,10 +5,10 @@ Mark I Compact Reactor Control Unit
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
 
-Anti-EM Shield Hardener II
+EM Shield Hardener II
 Large Shield Extender II
 Large Shield Extender II
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 Small F-RX Compact Capacitor Booster
 50MN Cold-Gas Enduring Microwarpdrive
 
@@ -20,7 +20,7 @@ Drone Link Augmentor I
 250mm Prototype Gauss Gun
 250mm Prototype Gauss Gun
 
-Medium Anti-Thermal Screen Reinforcer II
+Medium Thermal Shield Reinforcer II
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 

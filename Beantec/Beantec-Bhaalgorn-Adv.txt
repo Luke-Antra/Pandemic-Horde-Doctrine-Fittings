@@ -3,9 +3,9 @@
 Imperial Navy 1600mm Steel Plates
 Damage Control II
 Imperial Navy Energized Adaptive Nano Membrane
-True Sansha Armor Thermal Hardener
-True Sansha Armor Kinetic Hardener
-True Sansha Armor Explosive Hardener
+True Sansha Thermal Armor Hardener
+True Sansha Kinetic Armor Hardener
+True Sansha Explosive Armor Hardener
 Heat Sink II
 
 500MN Quad LiF Restrained Microwarpdrive

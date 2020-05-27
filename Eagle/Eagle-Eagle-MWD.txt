@@ -7,10 +7,10 @@ Reactor Control Unit II
 
 50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 Small Capacitor Booster II
 Large Shield Extender II
-Anti-EM Shield Hardener II
+EM Shield Hardener II
 
 250mm Railgun II
 250mm Railgun II

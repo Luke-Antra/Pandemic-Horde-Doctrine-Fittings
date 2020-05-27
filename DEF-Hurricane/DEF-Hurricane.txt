@@ -1,0 +1,35 @@
+[Hurricane, DEF Hurricane]
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Gyrostabilizer II
+Reactor Control Unit II
+Capacitor Power Relay II
+Damage Control II
+
+50MN Cold-Gas Enduring Microwarpdrive
+EM Ward Amplifier II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Light Missile Launcher II
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+Hornet EC-300 x8
+
+Republic Fleet Phased Plasma M x1120
+Republic Fleet EMP M x1000
+Caldari Navy Inferno Light Missile x53
+Republic Fleet Depleted Uranium M x1000
+Republic Fleet Fusion M x1000
+Republic Fleet Titanium Sabot M x1000
+Caldari Navy Nova Light Missile x500
+Caldari Navy Mjolnir Light Missile x500

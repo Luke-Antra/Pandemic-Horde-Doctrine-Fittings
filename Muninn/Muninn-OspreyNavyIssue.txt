@@ -7,10 +7,10 @@ Power Diagnostic System II
 
 50MN Cold-Gas Enduring Microwarpdrive
 Large Shield Extender II
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 Large Compact Pb-Acid Cap Battery
 Large Shield Extender II
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 
 Rapid Light Missile Launcher II
 Rapid Light Missile Launcher II
@@ -20,7 +20,7 @@ Drone Link Augmentor II
 
 Medium Hydraulic Bay Thrusters I
 Medium Core Defense Field Extender I
-Medium Anti-EM Screen Reinforcer II
+Medium EM Shield Reinforcer II
 
 Hornet EC-300 x5
 

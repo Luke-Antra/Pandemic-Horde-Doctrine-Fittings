@@ -5,12 +5,12 @@ Power Diagnostic System II
 Power Diagnostic System II
 Overdrive Injector System II
 
-Adaptive Invulnerability Shield Hardener II
+Multispectrum Shield Hardener II
 Large Shield Extender II
 Large Shield Extender II
 50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
-Anti-EM Shield Hardener II
+EM Shield Hardener II
 
 Warp Disruption Field Generator II
 Warp Disruption Field Generator II

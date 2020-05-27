@@ -6,9 +6,9 @@ Power Diagnostic System II
 Damage Control II
 
 50MN Quad LiF Restrained Microwarpdrive
-Adaptive Invulnerability Shield Hardener II
-Adaptive Invulnerability Shield Hardener II
-Anti-EM Shield Hardener II
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+EM Shield Hardener II
 Large Shield Extender II
 Large Shield Extender II
 

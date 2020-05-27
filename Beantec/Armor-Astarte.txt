@@ -1,11 +1,11 @@
 [Astarte, Armor Links Astarte]
 
-Core X-Type Armor EM Hardener
+Core X-Type EM Armor Hardener
 Damage Control II
 Imperial Navy 1600mm Steel Plates
 Imperial Navy 1600mm Steel Plates
 True Sansha Energized Adaptive Nano Membrane
-Centus X-Type Armor Explosive Hardener
+Centus X-Type Explosive Armor Hardener
 
 10MN Afterburner II
 Target Painter II

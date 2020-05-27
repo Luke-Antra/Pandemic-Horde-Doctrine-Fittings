@@ -1,3 +1,12 @@
+May 2020 - 2
+Anti-EM Screen Reinforcer → EM Shield Reinforcer
+Anti-Explosive Screen Reinforcer → Explosive Shield Reinforcer
+Anti-Kinetic Screen Reinforcer → Kinetic Shield Reinforcer
+Anti-Thermal Screen Reinforcer → Thermal Shield Reinforcer
+EM Armor Reinforcer → EM Armor Reinforcer
+Anti-Explosive Pump → Explosive Armor Reinforcer
+Anti-Kinetic Pump → Kinetic Armor Reinforcer
+Anti-Thermal Pump → Thermal Armor Reinforcer
 
 May 2020
 Adaptive Invulnerability Field → Adaptive Invulnerability Shield Hardener

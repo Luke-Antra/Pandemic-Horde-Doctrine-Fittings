@@ -4,9 +4,9 @@
 1600mm Steel Plates II
 Damage Control II
 Heat Sink II
-Domination Armor Kinetic Hardener
-True Sansha Armor Explosive Hardener
-True Sansha Armor Thermal Hardener
+Domination Kinetic Armor Hardener
+True Sansha Explosive Armor Hardener
+True Sansha Thermal Armor Hardener
 
 500MN Quad LiF Restrained Microwarpdrive
 Sensor Booster II
@@ -22,7 +22,7 @@ Tachyon Beam Laser II
 Large 'Vehemence' Shockwave Charge
 Tachyon Beam Laser II
 
-Large Anti-EM Pump I
+Large EM Armor Reinforcer I
 Large Trimark Armor Pump I
 Large Trimark Armor Pump I
 
