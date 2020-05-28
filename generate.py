@@ -8,20 +8,28 @@ if __name__ == '__main__':
         print('Please specify a directory to generate a post for')
     if len(sys.argv) == 2:
         if sys.argv[1][-1] != '/': sys.argv[1]+='/' #add trailing / to input if it's not already there
-        os.chdir(sys.argv[1])
-        os.remove('out.txt')
-        
+        working_dir = sys.argv[1]
+        print(working_dir)
         try:
-            with open('template.txt', 'r') as template:
+            os.remove(working_dir + 'out.txt')
+        except:
+            pass
+
+        try:
+            with open(working_dir + 'template.txt', 'r') as template:
                 template= template.readlines()
         except Exception as e:
             print(e)
         while True:
             for line in range(len(template)):
                 if '[Fit=' in template[line]:
-                    fit_file = template[line][5:-2].rstrip()
+                    fit_file = template[line][5:-2].rstrip() + '.txt'
                     template.pop(line)
-                    with open(fit_file+'.txt', 'r') as fit:
+                    
+                    if len(fit_file.split('/')) < 2:
+                        fit_file = working_dir + fit_file
+                    print(fit_file)
+                    with open(fit_file, 'r') as fit:
                         fit = fit.readlines()
                         fit.append('\n')
                         fit.reverse()
@@ -29,7 +37,7 @@ if __name__ == '__main__':
                             template.insert(line, mod)
                     break
                 if line == len(template)-1:
-                    with open('out.txt', 'w') as output:
+                    with open(working_dir + 'out.txt', 'w') as output:
                         output.writelines(template)
                     print("fits successfully inserted, output in 'out.txt' in specified directory")
                     sys.exit(0)
