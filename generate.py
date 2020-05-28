@@ -6,7 +6,7 @@ from datetime import datetime
 
 if __name__ == '__main__': 
     if len(sys.argv) < 2: 
-        print('Please specify a directory to generate a post for')
+        print('Please specify a Doctrine to generate a post for')
     if len(sys.argv) == 2:
         if sys.argv[1][-1] != '/': sys.argv[1]+='/' #add trailing / to input if it's not already there
         working_dir = sys.argv[1]
@@ -24,7 +24,9 @@ if __name__ == '__main__':
         while True:
             for line in range(len(template)):
                 if '[TIMESTAMP]' in template[line]:
-                    template[line] = datetime.utcnow().strftime('%Y.%m.%d %H:%M:%S') + '\n'
+                    split = template[line].split("[TIMESTAMP]")
+                    split.insert(1, datetime.utcnow().strftime('%Y.%m.%d %H:%M:%S'))
+                    template[line] = ''.join(split)
                 if '[Fit=' in template[line]:
                     fit_file = template[line][5:-2].rstrip() + '.txt'
                     template.pop(line)
