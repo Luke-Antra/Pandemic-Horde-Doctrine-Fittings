@@ -1,0 +1,39 @@
+[Pontifex, [HORDE] Fleet Links, MWD V1.0]
+
+400mm Crystalline Carbonide Restrained Plates
+IFFA Compact Damage Control
+Energized Adaptive Nano Membrane II
+Adaptive Nano Plating II
+Coreli A-Type Thermal Plating
+
+Micro Jump Field Generator
+5MN Y-T8 Compact Microwarpdrive
+Cetus Scoped Burst Jammer
+
+125mm Gatling AutoCannon II
+Armor Command Burst II
+125mm Gatling AutoCannon II
+Armor Command Burst II
+125mm Gatling AutoCannon II
+
+Small Command Processor I
+Small Trimark Armor Pump II
+
+Hobgoblin II x8
+Warrior II x7
+
+Armor Energizing Charge x600
+Armor Reinforcement Charge x600
+Rapid Repair Charge x600
+Electronic Hardening Charge x600
+Electronic Superiority Charge x600
+Sensor Optimization Charge x600
+Nanite Repair Paste x75
+Republic Fleet EMP S x1500
+Republic Fleet Fusion S x1500
+Republic Fleet Phased Plasma S x1500
+Evasive Maneuvers Charge x600
+Interdiction Maneuvers Charge x600
+Rapid Deployment Charge x600
+Information Command Burst II x2
+Skirmish Command Burst II x2
