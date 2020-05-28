@@ -3,6 +3,11 @@
 import os
 import sys
 from datetime import datetime
+try:
+    import pyperclip
+    pyper_intalled = True
+except:
+    pass
 
 if __name__ == '__main__': 
     if len(sys.argv) < 2: 
@@ -10,7 +15,6 @@ if __name__ == '__main__':
     if len(sys.argv) == 2:
         if sys.argv[1][-1] != '/': sys.argv[1]+='/' #add trailing / to input if it's not already there
         working_dir = sys.argv[1]
-        print(working_dir)
         try:
             os.remove(working_dir + 'out.txt')
         except:
@@ -20,7 +24,7 @@ if __name__ == '__main__':
             with open(working_dir + 'template.txt', 'r') as template:
                 template= template.readlines()
         except Exception as e:
-            print(e)
+            sys.exit(e)
         while True:
             for line in range(len(template)):
                 if '[TIMESTAMP]' in template[line]:
@@ -45,4 +49,8 @@ if __name__ == '__main__':
                     with open(working_dir + 'out.txt', 'w') as output:
                         output.writelines(template)
                     print("fits successfully inserted, output in 'out.txt' in specified directory")
+                    if pyper_intalled:
+                        clip = ''.join(template)
+                        pyperclip.copy(clip)
+                        print("output copied to clipboard")
                     sys.exit(0)
