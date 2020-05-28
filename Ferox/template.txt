@@ -19,16 +19,16 @@ Typically Osprey are fine for logi. There will be points where Basilisk are call
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Osprey - [/COLOR][/SIZE]Shield Logistics cruisers for lower SP pilots. This fit is newbean friendly.
 [SPOILER="Shield Fleet Osprey Mk3"]
-[Fit=Shield-Osprey]
+[Fit=Shield-Shared/Shield-Osprey]
 [/SPOILER]
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Basilisk - [/COLOR][/SIZE]Only use if specifically called for by FC for important objectives.
 [Spoiler="HORDE - LOGI V V2.0"]
-[Fit=Shield-Basilisk-LogiV-MWD]
+[Fit=Shield-Shared/Shield-Basilisk-LogiV-MWD]
 [/SPOILER]
 [COLOR=rgb(247, 218, 100)]Requires 5/5/5 Logistics Skills and Shield Upgrades 5, if you have Shield Upgrades 4 replace MWD with a 50MN Y-T8 Compact Microwarpdrive.[/COLOR]
 [Spoiler="HORDE - LOGI IV V2.0"]
-[Fit=Shield-Basilisk-LogiIV-MWD]
+[Fit=Shield-Shared/Shield-Basilisk-LogiIV-MWD]
 [/SPOILER]
 [COLOR=rgb(247, 218, 100)]4/4/4 Shield Upgrades 4 Fitting, Upgrade to 5/5/5 Shield Upgrades 5 asap for full potential. This runs the Large Ancillary so do learn how to use it effectively.[/COLOR]
 
@@ -38,45 +38,45 @@ Similar to the Logistics wing, there are some choice links ships depending on wh
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Drake - [/COLOR][/SIZE]The Drake is used for cheap links for when Valhalla is expected, it also gives your fleet a good boost for low cost for newer FC's to be more comfortable with the cost of their fleet. Please remember to fit proper links for what is needed.
 [SPOILER="Links Drake"]
-[Fit=Shield-Drake]
+[Fit=Shield-Shared/Shield-Drake]
 [/SPOILER]
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Claymore - [/COLOR][/SIZE]Only use if specifically called for by FC for important objectives.
 [SPOILER="Horde Shield Links Claymore"]
-[Fit=Shield-Claymore]
+[Fit=Shield-Shared/Shield-Claymore]
 [/SPOILER]
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Sleipnir - [/COLOR][/SIZE]Only use if specifically called for by FC for important objectives.
 [SPOILER="Horde Shield Links Sleipnir"]
-[Fit=Shield-Sleipnir]
+[Fit=Shield-Shared/Shield-Sleipnir]
 [/SPOILER]
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Support[/U][/B][/COLOR][/SIZE]
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Huginn - [/COLOR][/SIZE]
 [SPOILER="Horde Shield Fleet Huginn"]
-[Fit=Shield-Huginn]
+[Fit=Shield-Shared/Shield-Huginn]
 [/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Lachesis -[/COLOR][/SIZE]
 [SPOILER="Shield Fleet Lachesis"]
-[Fit=Shield-Lachesis]
+[Fit=Shield-Shared/Shield-Lachesis]
 [/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Onyx - [/COLOR][/SIZE]
 [SPOILER="Shield Fleet Onyx"]
-[Fit=Shield-Onyx]
+[Fit=Shield-Shared/Shield-Onyx]
 [/SPOILER]
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Defender Corax - [/COLOR][/SIZE]Newbean friendly, the defender Coraxes are essential to keeping the fleet safe from bombs. A good, useful, low-SP ship.
 [SPOILER="Defender Corax"]
-[Fit=Shield-Corax]
+[Fit=Shield-Shared/Shield-Corax]
 [/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Shield Fleet Sabre - [/COLOR][/SIZE]The premiere shield "dictor" or "bubbler". Bubbles can be used defensively or offensively for tackling fleets.
 [SPOILER="Shield Fleet Sabre"]
-[Fit=Shield-Sabre-Hyper]
+[Fit=Shield-Shared/Shield-Sabre]
 [/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Flycatcher - [/COLOR][/SIZE]Not as fast, but a lot tankier than it's Minmatar counterpart, the Flycatcher is a good fleet dictor cause you can get shot and possibly live.
 [SPOILER="Shield Fleet Flycatcher"]
-[Fit=Shield-Flycatcher]
+[Fit=Shield-Shared/Shield-Flycatcher]
 [/SPOILER]
 
 
@@ -86,3 +86,6 @@ Ewar is dependent on the FC. On the whole, it will be either:
 [SIZE=5][COLOR=rgb(251, 160, 38)]Crucifiers - [/COLOR][/SIZE]For tracking disruption of the enemy
 [SIZE=5][COLOR=rgb(251, 160, 38)]Griffins - [/COLOR][/SIZE]For jamming enemy Logi or special ships
 [SIZE=5][COLOR=rgb(251, 160, 38)]Mauluses - [/COLOR][/SIZE]For damping enemy Logi or special ships
+
+Last edited by Qymmscript on:
+[TIMESTAMP]
