@@ -17,18 +17,17 @@ if __name__ == '__main__':
         while True:
             for line in range(len(template)):
                 if '[Fit=' in template[line]:
-                    print('inserting fit {}'.format(template[line]))
                     fit_file = template[line][5:-2].rstrip()
                     template.pop(line)
                     with open(fit_file+'.txt', 'r') as fit:
                         fit = fit.readlines()
                         fit.append('\n')
                         fit.reverse()
-                        print(fit)
                         for mod in fit:
                             template.insert(line, mod)
                     break
                 if line == len(template)-1:
                     with open('out.txt', 'w') as output:
                         output.writelines(template)
+                    print("fits successfully inserted, output in 'out.txt' in specified directory")
                     sys.exit()
