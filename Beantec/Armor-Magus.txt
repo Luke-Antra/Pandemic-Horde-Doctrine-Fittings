@@ -1,0 +1,32 @@
+[Magus, Armor MWD Fleet v1.0]
+
+Damage Control II
+400mm Crystalline Carbonide Restrained Plates
+Coreli A-Type Explosive Plating
+Adaptive Nano Plating II
+
+5MN Quad LiF Restrained Microwarpdrive
+Micro Jump Field Generator
+Warp Disruptor II
+Cetus Scoped Burst Jammer
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Skirmish Command Burst II
+
+Small Trimark Armor Pump II
+Small Trimark Armor Pump II
+
+Hammerhead II x3
+Hobgoblin II x6
+
+Armor Energizing Charge x300
+Armor Reinforcement Charge x300
+Rapid Repair Charge x300
+Nanite Repair Paste x80
+Republic Fleet EMP S x3880
+Evasive Maneuvers Charge x300
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x300
+Armor Command Burst II x1

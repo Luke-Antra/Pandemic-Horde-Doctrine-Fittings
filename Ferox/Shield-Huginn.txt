@@ -1,4 +1,4 @@
-[Huginn, Muninn Fleet Huginn v1.0X]
+[Huginn, Muninn Fleet Huginn v1.0]
 
 Damage Control II
 Power Diagnostic System II

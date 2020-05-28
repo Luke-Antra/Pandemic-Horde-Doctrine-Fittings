@@ -1,0 +1,175 @@
+[SIZE=5][U]Optimal Fleet Composition[/U][/SIZE]
+Guardians > Links > Apocs > Bhaalgorns > Megas
+20 to 25% Logi, 10 to 15% Bhaals, remaining DPS ships mostly Apocs
+
+[SIZE=5][U]Drugs to have in cargo for DPS Ships:[/U][/SIZE]
+Agency 'Pyrolancea' DB5 Dose II
+Antipharmakon Iokira
+Standard Drop Booster
+
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]DPS[/SIZE][/U][/B][/COLOR]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Advanced Bhaalgorn - [/COLOR][/SIZE]Higher SP DPS Ship, Alternative to Apoc but requires higher skill points.
+[SPOILER="Advanced T2 Tachyon Bhaalgorn"]
+[Fit=Beantec-Megathron-T1]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Standard DPS Ships (Apocs > Bhaal (Stnd) > Mega)[/COLOR][/SIZE]
+[SPOILER="Beantec Megathron, T2"]
+[Fit=Beantec-Megathron-T2]
+[/SPOILER]
+[SPOILER="Beantec Megathron, T1"]
+[Fit=Beantec-Megathron-T1]
+[/SPOILER]
+[SPOILER="Beantec Bhaalgorn T2"]
+[Fit=Beantec-Bhaalgorn-T2]
+[/SPOILER]
+[SPOILER="Beantec Bhaalgorn T1"]
+[Fit=Beantec-Bhaalgorn-T2]
+[/SPOILER]
+[SPOILER="Beantec Apoc T2"]
+[Fit=Beantec-Apoc-T2]
+[/SPOILER]
+[SPOILER="Beantec Apoc T1"]
+[Fit=Beantec-Apoc-T1]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]LOGISTICS[/SIZE][/U][/B][/COLOR]
+
+[SPOILER="Logi V Guardian [MWD]"]
+[Fit=Armor-Guardian-LogiV-MWD]
+[/SPOILER]
+[SPOILER="Logi IV Guardian [MWD]"]
+[Fit=Armor-Guardian-LogiIV-MWD]
+[COLOR=rgb(247, 218, 100)]Fitting Note: Logi IV Guardian pilots have ancillary armor repairers that should be set to auto-repeat off, only used for max burst rep situations.[/COLOR]
+[/SPOILER]
+[SPOILER="Beantec Oneiros"]
+[Fit=Beantec-Oneiros]
+[/SPOILER]
+[SPOILER="Beanstorm Augoror [MWD]"]
+[Fit=Armor-Augoror-MWD]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][SIZE=6][B][U]LINKS[/U][/B][/SIZE][/COLOR]
+
+[SPOILER="Armor Links Damnation"]
+[Fit=Armor-Damnation]
+[/SPOILER]
+[SPOILER="Armor Links Astarte"]
+[Fit=Armor-Astarte]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]SUPPORT[/SIZE][/U][/B][/COLOR]
+
+[SPOILER="Armor Devoter"]
+[Fit=Armor-Devoter]
+[/SPOILER]
+[SPOILER="Armor Phobos"]
+[Fit=Armor-Phobos]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]Fitting Note: For both the Devoter and Phobos, M-36 Enduring Warp Disruption Field Generator are acceptable if you cannot fit T2.[/COLOR]
+[SPOILER="Armor Fleet Heretic"]
+[Fit=Armor-Heretic]
+[/SPOILER]
+[SPOILER="Pontifex, Armor MWD Fleet"]
+[Fit=Armor-Pontifex]
+[/SPOILER]
+[SPOILER="Magus, Armor MWD Fleet"]
+[Fit=Armor-Magus]
+[/SPOILER]
+[B][/B]
+[COLOR=rgb(247, 218, 100)][U][SIZE=5][B]CHANGE LOG:[/B][/SIZE][/U][/COLOR]
+
+[COLOR=rgb(247, 218, 100)]Updated:[/COLOR]
+
+- Damnation fit to reflect tank changes and use dedspace mods by default
+- Astarte fit to reflect tank changes and use dedspace mods by default
+- Devoter has been updated to reflect removal of cynos
+- Phobos has been updated to reflect removal of cynos
+- Anti-Bomb Legion has been removed for time being
+
+[COLOR=rgb(247, 218, 100)]Removed:[/COLOR]
+[SPOILER="Anti-Bomber Legion"]
+[Legion, Anti-Bomb Legion [MWD]]
+
+Damage Control II
+Coreli A-Type Adaptive Nano Plating
+Syndicate 1600mm Steel Plates
+Corpus X-Type Armor Thermal Hardener
+Corpus X-Type Armor EM Hardener
+Corpum A-Type Energized Kinetic Membrane
+Heat Sink II
+
+50MN Y-T8 Compact Microwarpdrive
+Sensor Booster II, Scan Resolution Script
+Small F-RX Compact Capacitor Booster, Navy Cap Booster 400
+
+Heavy Beam Laser II, Imperial Navy Multifrequency M
+Heavy Beam Laser II, Imperial Navy Multifrequency M
+Heavy Beam Laser II, Imperial Navy Multifrequency M
+Auto Targeting System I
+Heavy Beam Laser II, Imperial Navy Multifrequency M
+Heavy Beam Laser II, Imperial Navy Multifrequency M
+Heavy Beam Laser II, Imperial Navy Multifrequency M
+
+Medium Anti-Explosive Pump II
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+
+Legion Core - Augmented Antimatter Reactor
+Legion Defensive - Augmented Plating
+Legion Offensive - Liquid Crystal Magnifiers
+Legion Propulsion - Wake Limiter
+
+
+Aurora M x18
+Navy Cap Booster 400 x26
+Imperial Navy Multifrequency M x6
+Imperial Navy Radio M x6
+Imperial Navy Standard M x6
+Scan Resolution Script x4
+Targeting Range Dampening Script x4
+Tracking Speed Disruption Script x2
+[/SPOILER]
+[SPOILER="Web Loki"][/SPOILER][SPOILER="Web Loki"]
+[Loki, Beanstorm Web Loki [MWD]]
+
+Corpus X-Type Armor Explosive Hardener
+Imperial Navy Energized Adaptive Nano Membrane
+1600mm Rolled Tungsten Compact Plates
+Imperial Navy 1600mm Steel Plates
+Corpus X-Type Armor Kinetic Hardener
+
+50MN Y-T8 Compact Microwarpdrive
+Sensor Booster II
+Dark Blood Stasis Webifier
+Small Electrochemical Capacitor Booster I, Navy Cap Booster 400
+Dark Blood Stasis Webifier
+
+Expanded Probe Launcher II
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+Auto Targeting System I
+[Empty High slot]
+[Empty High slot]
+[Empty High slot]
+
+Medium Anti-Thermal Pump II
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+
+Loki Offensive - Projectile Scoping Array
+Loki Defensive - Augmented Durability
+Loki Propulsion - Intercalated Nanofibers
+Loki Core - Immobility Drivers
+
+
+Warrior II x5
+
+
+Nanite Repair Paste x500
+EMP S x1700
+Sisters Combat Scanner Probe x16
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x2[/SPOILER]
+Not necessary when you use bhaalgorns instead[QUOTE][/QUOTE]
