@@ -22,7 +22,9 @@ if __name__ == '__main__':
                     template.pop(line)
                     with open(fit_file+'.txt', 'r') as fit:
                         fit = fit.readlines()
+                        fit.append('\n')
                         fit.reverse()
+                        print(fit)
                         for mod in fit:
                             template.insert(line, mod)
                     break

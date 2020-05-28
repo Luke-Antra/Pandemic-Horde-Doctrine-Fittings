@@ -1,0 +1,89 @@
+Our bread and butter response or mid range doctrine. The Ferox fleet is great at about everything; range, damage, it does it all. They're very cheap and insure well.
+
+[COLOR=rgb(84, 172, 210)][SIZE=5][U][B]DPS[/B][/U][/SIZE][/COLOR]
+[COLOR=rgb(204, 204, 204)][SIZE=3]The Ferox comes as a T1 and T2 variant depending on skills. Obviously the T2 variant has a bit more flexibility and everyone should strive to fly it.[/SIZE][/COLOR]
+
+[COLOR=rgb(147, 101, 184)][SIZE=5]T1 Ferox[/SIZE][/COLOR]
+[SPOILER="T1 Ferox"]
+[Fit=Ferox-Ferox-T1]
+[/SPOILER]
+
+[COLOR=rgb(147, 101, 184)][SIZE=5]T2 Ferox[/SIZE][/COLOR]
+[COLOR=rgb(204, 204, 204)][SIZE=3][SPOILER="T2 Ferox"][/SPOILER][/SIZE][SPOILER="T2 Ferox"][/spoiler][/COLOR][SPOILER="T2 Ferox"]
+[Fit=Ferox-Ferox-T2]
+[/SPOILER]
+
+
+[COLOR=rgb(84, 172, 210)][SIZE=5][B][U]Logistics[/U][/B][/SIZE][/COLOR]
+Typically Osprey are fine for logi. There will be points where Basilisk are called. They are extremely helpful and it is good to have both.
+
+[COLOR=rgb(147, 101, 184)][SIZE=5]Osprey- [COLOR=rgb(204, 204, 204)][SIZE=3]Shield Logistics cruisers for lower SP pilots. This fit is newbean friendly.[/SIZE][/COLOR][/SIZE][/COLOR]
+[SPOILER="Shield Fleet Osprey Mk3"]
+[Fit=Shield-Osprey]
+[/SPOILER]
+
+[COLOR=rgb(147, 101, 184)][SIZE=5]Basilisk -[COLOR=rgb(204, 204, 204)] [B]Only use these if specifically called for by FC for important objectives[/B][/COLOR][/SIZE][/COLOR]
+[Spoiler="HORDE - LOGI V V2.0"]
+[Fit=Shield-Basilisk-LogiV-MWD]
+[/SPOILER]
+Requires 5/5/5 Logistics Skills and Shield Upgrades 5, if you have Shield Upgrades 4
+Replace MWD with a 50MN Y-T8 Compact Microwarpdrive
+[Spoiler="HORDE - LOGI IV V2.0"]
+[Fit=Shield-Basilisk-LogiIV-MWD]
+[/SPOILER]
+4/4/4 Shield Upgrades 4 Fitting, Upgrade to 5/5/5 Shield Upgrades 5 asap for full potential. This runs the Large Ancillary so do learn how to use it effectively.
+
+
+
+[COLOR=rgb(84, 172, 210)][SIZE=5][B][U]Links[/U][/B][/SIZE][/COLOR]
+Similar to the Logistics wing, there are some choice links ships depending on what the FC needs. Sometimes it is Drake links for cost effectiveness, or more expensive Command Ships if it is deemed necessary. Links are generally interchangable if needed, however, they will be set up in this post as related to their bonuses.
+
+[COLOR=rgb(147, 101, 184)][SIZE=5]Drake-[COLOR=rgb(204, 204, 204)][SIZE=3]The Drake is used for cheap links for when Valhalla is expected, it also gives your fleet a good boost for low cost for newer FC's to be more comfortable with the cost of their fleet. Please remember to fit proper links for what is needed.[/SIZE][/COLOR][/SIZE][/COLOR]
+[COLOR=rgb(147, 101, 184)][SIZE=5][COLOR=rgb(204, 204, 204)][SIZE=3][SPOILER="Links Drake"][/SPOILER][/SIZE][SPOILER="Links Drake"][/spoiler][/COLOR][SPOILER="Links Drake"][/spoiler][/SIZE][SPOILER="Links Drake"][/spoiler][/COLOR][SPOILER="Links Drake"]
+[Fit=Shield-Drake]
+[/SPOILER]
+
+[COLOR=rgb(147, 101, 184)][SIZE=5]Claymore - [COLOR=rgb(147, 101, 184)][SIZE=4][COLOR=rgb(204, 204, 204)][B]Only use if specifically called for by FC for imporant objective[/B][/COLOR][/SIZE][/COLOR][/SIZE][/COLOR]
+[SPOILER="Horde Shield Links Claymore"]
+[Fit=Shield-Claymore]
+[/SPOILER]
+
+[COLOR=rgb(147, 101, 184)][SIZE=5]Sleipnir - [/SIZE][SIZE=4][COLOR=rgb(204, 204, 204)] [B]Only use if specifically called for by FC for imporant objective[/B][/COLOR][/SIZE][/COLOR]
+[SPOILER="Horde Shield Links Sleipnir"]
+[Fit=Shield-Sleipnir]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][SIZE=5][U][B]Support[/B][/U][/SIZE][/COLOR]
+
+[COLOR=rgb(147, 101, 184)][SIZE=5]Huginn - [/SIZE][/COLOR]
+[SPOILER="Horde Shield Fleet Huginn"]
+[Fit=Shield-Huginn]
+[/SPOILER]
+[COLOR=rgb(147, 101, 184)][SIZE=5]Lachesis-[/SIZE][/COLOR]
+[SPOILER="Shield Fleet Lachesis"]
+[Fit=Shield-Lachesis]
+[/SPOILER]
+[COLOR=rgb(147, 101, 184)][SIZE=5]Onyx - [/SIZE][/COLOR]
+[SPOILER="Shield Fleet Onyx"]
+[Fit=Shield-Onyx]
+[/SPOILER]
+[COLOR=rgb(147, 101, 184)][SIZE=5]Defender Corax-[COLOR=rgb(204, 204, 204)][SIZE=3]Newbean friendly, the defender Coraxes are essential to keeping the fleet safe from bombs. A good, useful, low-SP ship.[/SIZE][/COLOR][/SIZE][/COLOR]
+[COLOR=rgb(147, 101, 184)][SIZE=5][COLOR=rgb(204, 204, 204)][SIZE=3][SPOILER="Defender Corax"][/SPOILER][/SIZE][SPOILER="Defender Corax"][/spoiler][/COLOR][SPOILER="Defender Corax"][/spoiler][/SIZE][SPOILER="Defender Corax"][/spoiler][/COLOR][SPOILER="Defender Corax"]
+[Fit=Shield-Corax]
+[/SPOILER]
+[COLOR=rgb(147, 101, 184)][SIZE=5]Shield Fleet Sabre-[COLOR=rgb(204, 204, 204)][SIZE=3]The premiere shield "dictor" or "bubbler". Bubbles can be used defensively or offensively for tackling fleets.[/SIZE][/COLOR][/SIZE][/COLOR]
+[COLOR=rgb(147, 101, 184)][SIZE=5][COLOR=rgb(204, 204, 204)][SIZE=3][SPOILER="Shield Fleet Sabre"][/SPOILER][/SIZE][SPOILER="Shield Fleet Sabre"][/spoiler][/COLOR][SPOILER="Shield Fleet Sabre"][/spoiler][/SIZE][SPOILER="Shield Fleet Sabre"][/spoiler][/COLOR][SPOILER="Shield Fleet Sabre"]
+[Fit=Shield-Sabre-Hyper]
+[/SPOILER]
+[COLOR=rgb(147, 101, 184)][SIZE=5]Flycatcher-[COLOR=rgb(204, 204, 204)][SIZE=3]Not as fast, but a lot tankier than it's Minmatar counterpart, the Flycatcher is a good fleet dictor cause you can get shot and possibly live.[/SIZE][/COLOR][/SIZE][/COLOR]
+[SPOILER="Shield Fleet Flycatcher"]
+[Fit=Shield-Flycatcher]
+[/SPOILER]
+
+
+[COLOR=rgb(84, 172, 210)][SIZE=5][U][B]Other Additions[/B][/U][/SIZE][/COLOR]
+[COLOR=rgb(147, 101, 184)][SIZE=5][COLOR=rgb(204, 204, 204)][SIZE=3]Ewar is dependent on the FC. On the whole, it will be either:[/SIZE][/COLOR][/SIZE][/COLOR]
+
+[SIZE=5][COLOR=rgb(147, 101, 184)]Crucifiers-[/COLOR][COLOR=rgb(26, 188, 156)][SIZE=3][COLOR=rgb(204, 204, 204)]For tracking disruption of the enemy[/COLOR][/SIZE][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(26, 188, 156)][SIZE=5][COLOR=rgb(147, 101, 184)]Griffins-[/COLOR][COLOR=rgb(26, 188, 156)][SIZE=3][COLOR=rgb(204, 204, 204)]For jamming enemy Logi or special ships[/COLOR][/SIZE][/COLOR][/SIZE][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(26, 188, 156)][SIZE=5][COLOR=rgb(147, 101, 184)]Mauluses-[/COLOR][COLOR=rgb(26, 188, 156)][COLOR=rgb(204, 204, 204)][SIZE=3]For damping enemy Logi or special ships[/SIZE][/COLOR][/COLOR][/SIZE][/COLOR][/SIZE]
