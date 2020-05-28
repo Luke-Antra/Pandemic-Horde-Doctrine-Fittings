@@ -2,6 +2,7 @@
 
 import os
 import sys
+from datetime import datetime
 
 if __name__ == '__main__': 
     if len(sys.argv) < 2: 
@@ -22,6 +23,8 @@ if __name__ == '__main__':
             print(e)
         while True:
             for line in range(len(template)):
+                if '[TIMESTAMP]' in template[line]:
+                    template[line] = datetime.utcnow().strftime('%Y.%m.%d %H:%M:%S') + '\n'
                 if '[Fit=' in template[line]:
                     fit_file = template[line][5:-2].rstrip() + '.txt'
                     template.pop(line)
