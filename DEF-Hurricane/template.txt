@@ -1,0 +1,40 @@
+[ATTACH=full]2721[/ATTACH]
+
+[QUOTE=Gobbins]@everyone
+ATTN ALL SIMPS - WER ABOUT TO EXPERIMENT WITH A NEW DOCTRINE
+It's something that's never been done before and it will either own or truly burn in a fire :fire: It's perma-mwd nano canes with frig logi. Better alpha than muninns and trades really well. The fit is cap stable and mobile so it should be able to dodge bombs or at the very least spread out easily.  The first batch is already up on contracts, get yourself one so we can keep seeding more. We're looking to field test this doctrine asap.[/QUOTE]
+
+[SIZE=5][COLOR=rgb(247, 218, 100)]Note: Please note that the old Horde Doctrine Hurricane is different and incompatible with the DEF Hurricane fleet.[/COLOR][/SIZE]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]DPS[/U][/B][/COLOR][/SIZE]
+HERE I AM.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hurricane[/COLOR][/SIZE]
+[SPOILER="Hurricane, T2"]
+[Fit=DEF-Hurricane]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]Fitting Note: I'm told this fit requires Advanced Weapon Upgrades V in order to online, but a power grid management implant will also do in a pinch.[/COLOR]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]LOGI[/SIZE][/U][/B][/COLOR]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Kirin[/COLOR][/SIZE]
+[SPOILER="Shield Fleet Kirin v1.3"]
+[Fit=Shield-Shared/Shield-Kirin-MWD]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]LINKS[/SIZE][/U][/B][/COLOR]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Battlecruiser Links[/COLOR][/SIZE]
+[SPOILER="Links Hurricane"]
+[Fit=DEF-Hurricane-Links]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Command Destroyers[/COLOR][/SIZE]
+[SPOILER="HORDE Stork MWD/AB"]
+[Fit=Shield-Shared/Shield-Stork]
+[/SPOILER]
+[SPOILER="HORDE Bifrost MWD/AB"]
+[Fit=Shield-Shared/Shield-Bifrost]
+[/SPOILER]
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

@@ -1,0 +1,64 @@
+[SIZE=4]Our newest doctrine, Muninns are fast, hit hard, can tank well with ADC and get incredible tracking. This will quickly become a main stay doctrine.[/SIZE]
+
+[COLOR=rgb(247, 218, 100)]Notice: Many fits require good cap skills and drugs. All fits are designed to be cap stable or very close to. If you are not, augment using drugs. Cap life is very important.[/COLOR]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]DPS[/SIZE][/U][/B][/COLOR]
+The Muninn is an incredible platform. It's fast, it's mean, it does a lot.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Muninn[/COLOR][/SIZE]
+[SPOILER="Doctrine Muninn"]
+[Fit=Muninn-Muninn]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]NOTE: These include the refit with 10mn AB II and Gyrostabilizer II in hanger, ONLY when asked for do you remove the MWD and the Power Diagnostic System II for 10mn AB and Gyrostabilizer. Log off fit is always MWD.[/COLOR]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Logistics[/U][/B][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Scimitar - [/COLOR][/SIZE]Minmatar T2 Logi, [COLOR=rgb(247, 218, 100)]the Scimitar is fast and is cap stable with drugs and one large rep NOT running. This fit requires Logistics Cruisers 5.[/COLOR]
+[SPOILER="Scimitar"]
+[Fit=Muninn-Scimitar]
+[/SPOILER]
+[COLOR=rgb(251, 160, 38)][SIZE=5]Kirin - [/SIZE][/COLOR]Logistics frigates for lower SP pilots. Please note Scimitars are preferred.
+[SPOILER="Kirin"]
+[Fit=Shield-Shared/Shield-Kirin-MWD]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]Fitting Note: Sub in 5MN Y-T8 Compact Microwarpdrive if not enough CPU.[/COLOR]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Links[/U][/B][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Claymore - [/COLOR][/SIZE]Powerful links that augment the fleets stats for the better. 100% Necessary. Claymore are more the tankiest command ship that can keep up with the Muninns. Fit your command bursts to taste.
+[SPOILER="Muninn Fleet Claymore Links"]
+[Fit=Muninn-Claymore]
+[/SPOILER]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Support[/U][/B][/COLOR][/SIZE]
+[SIZE=4][COLOR=rgb(247, 218, 100)]FITTING NOTE: PAY ATTENTION TO SUPPORT FITS AS THEY WILL BE DIFFERENT THAN STANDARD FLEET FITS.[/COLOR][/SIZE]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Huginn - [/COLOR][/SIZE]The webbing support ship of this fleet. Web Huginns help keep range and for Muninns to apply damage.
+[SPOILER="Huginn"]
+[Fit=Shield-Shared/Shield-Huginn]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]Fitting Note: Fit the Nanofiber Internal Structure II on Muninn fleets.[/COLOR]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Lachesis - [/COLOR][/SIZE]A force recon, the Lachesis is amazing at long pointing targets so they can't get away while DPS smashes them to bits.
+[SPOILER="Lachesis"]
+[Fit=Muninn-Lachesis]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Osprey Navy Issue - [/COLOR][/SIZE]A low SP Caldari Cruiser, this ship is anti-enemy support meant for smashing enemy tackle, dictors, booshers, anything that gets too close for comfort.
+[SPOILER="Osprey Navy Issue"]
+[Fit=Muninn-OspreyNavyIssue]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Stabber[/COLOR][/SIZE]
+[SPOILER="Meteor Stabber"]
+[Fit=Shield-Shared/Shield-Stabber]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Jackdaw - [/COLOR][/SIZE]A Caldari T3D, this ship is anti-bomb support as has inbuilt defender missiles. Also has an antitackle role. Needs to be flown in propulsion mode to keep up.
+[SPOILER="Jackdaw"]
+[Fit=Jackdaw/Jackdaw-Jackdaw]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Other Additions[/SIZE][/U][/B][/COLOR]
+Ewar is dependent on the FC. On the whole, it will be either:
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Crucifiers -[/COLOR][/SIZE] For tracking disruption of the enemy
+[SIZE=5][COLOR=rgb(251, 160, 38)]Griffins -[/COLOR][/SIZE] For jamming enemy Logi or special ships
+[SIZE=5][COLOR=rgb(251, 160, 38)]Mauluses -[/COLOR][/SIZE] For damping enemy Logi or special ships
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

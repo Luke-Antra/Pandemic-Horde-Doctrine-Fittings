@@ -1,0 +1,62 @@
+[SIZE=4]Caracals are very powerful in large numbers. Good burst with rapid light platform and excels at killing smaller stuff. Can do very well against bigger things in proper numbers.[/SIZE]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]DPS[/U][/B][/COLOR][/SIZE]
+As usual, Caracals come in two flavors, T1 and T2. The T2 variant holds 1 more missile which is important with the long reload time. Osprey Navy Issues are damage locked but have a little bit more damage and agility and are a little more expensive for rich Beans.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]T1 Caracal[/COLOR][/SIZE]
+[SPOILER="T1 Caracal"]
+[Fit=Caracal-Caracal-T1]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]T2 Caracal[/COLOR][/SIZE]
+[SPOILER="T2 Caracal"]
+[Fit=Caracal-Caracal-T2]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Osprey Navy Issue[/COLOR][/SIZE]
+[SPOILER="Osprey Navy Issue"]
+[Fit=Caracal-OspreyNavyIssue]
+[/SPOILER]
+
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Logistics[/U][/B][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Osprey - [/COLOR][/SIZE]Shield Logistics cruisers for lower SP pilots. This fit is newbean friendly.
+[SPOILER="Shield Fleet Osprey Mk3"]
+[Fit=Shield-Shared/Shield-Osprey]
+[/SPOILER]
+
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Links[/U][/B][/COLOR][/SIZE]
+As usual, tailor your links to what is needed for the fleet.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Command Destroyers[/COLOR][/SIZE]
+[SPOILER="HORDE Stork MWD/AB"]
+[Fit=Shield-Shared/Shield-Stork]
+[/SPOILER]
+[SPOILER="HORDE Bifrost MWD/AB"]
+[Fit=Shield-Shared/Shield-Bifrost]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Battlecruiser Links[/COLOR][/SIZE]
+[SPOILER="Cyclone, Horde Caracal Links"]
+[Fit=Caracal-Cyclone]
+[/SPOILER]
+
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Support[/SIZE][/U][/B][/COLOR]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Shield Fleet Sabre - [/COLOR][/SIZE]The premiere shield "dictor" or "bubbler". Bubbles can be used defensively or offensively for tackling fleets.
+[SPOILER="Shield Fleet Sabre"]
+[Fit=Shield-Shared/Shield-Sabre]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Flycatcher - [/COLOR][/SIZE]Not as fast, but a lot tankier than it's Minmatar counterpart, the Flycatcher is a good fleet dictor cause you can get shot and possibly live.
+[SPOILER="Shield Fleet Flycatcher"]
+[Fit=Shield-Shared/Shield-Flycatcher]
+[/SPOILER]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Other Additions[/U][/B][/COLOR][/SIZE]
+Ewar is dependent on the FC. On the whole, it will be either:
+
+[COLOR=rgb(251, 160, 38)][SIZE=5]Crucifiers - [/SIZE][/COLOR]For tracking disruption of the enemy
+[SIZE=5][COLOR=rgb(251, 160, 38)]Griffins - [/COLOR][/SIZE]For jamming enemy Logi or special ships
+[SIZE=5][COLOR=rgb(251, 160, 38)]Mauluses - [/COLOR][/SIZE]For damping enemy Logi or special ships
+[SIZE=5][COLOR=rgb(251, 160, 38)]Interceptors/Tackle - [/COLOR][/SIZE]Tackle is always helpful and always welcome
+
+Last edited by Qymmscript on:
+[TIMESTAMP]
