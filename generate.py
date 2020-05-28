@@ -9,6 +9,8 @@ if __name__ == '__main__':
     if len(sys.argv) == 2:
         if sys.argv[1][-1] != '/': sys.argv[1]+='/' #add trailing / to input if it's not already there
         os.chdir(sys.argv[1])
+        os.remove('out.txt')
+        
         try:
             with open('template.txt', 'r') as template:
                 template= template.readlines()
@@ -30,4 +32,4 @@ if __name__ == '__main__':
                     with open('out.txt', 'w') as output:
                         output.writelines(template)
                     print("fits successfully inserted, output in 'out.txt' in specified directory")
-                    sys.exit()
+                    sys.exit(0)
