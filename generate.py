@@ -32,7 +32,7 @@ if __name__ == '__main__':
                     split.insert(1, datetime.utcnow().strftime('%Y.%m.%d %H:%M:%S'))
                     template[line] = ''.join(split)
                 if '[Fit=' in template[line]:
-                    fit_file = template[line][5:-2].rstrip() + '.txt'
+                    fit_file = template[line].rstrip()[5:-1] + '.txt'
                     template.pop(line)
                     
                     if len(fit_file.split('/')) < 2:
