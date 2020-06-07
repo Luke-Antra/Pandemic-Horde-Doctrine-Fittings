@@ -1,0 +1,92 @@
+[COLOR=rgb(209, 213, 216)][SIZE=4][I]Like its slower, fatter brother the Ferox, the Eagle gets to double-dip on a +10% range bonus per level, making it capable of projecting very high damage out to Battleship-class long-range. But unlike it's battlecruiser brother, the Eagle is faster, has a smaller sig, T2 resist bonsues, and a death-defying Assault Damage Control that makes it a far more difficult target to bomb or alpha. Stacking on top of that the inherent benefits of Hybrid Rails compared to other gun platforms (longer base range, lower base PG req) makes the Eagle a versatile and effective tool that can be very deadly.[/I][/SIZE][/COLOR]
+
+[SIZE=4]All fits here aside from the Eagle are interchangeable with the Ferox & Muninn Doctrines, but note that some module switching will be necessary for Muninns. Modules switch will be found in cargo.[/SIZE]
+
+[SIZE=5]IN-GAME CHANNEL TO LINK IN MOTDs: [QUOTE][COLOR=rgb(84, 172, 210)][B]PH.Aquilatech[/B][/COLOR][/QUOTE][/SIZE]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]DPS[/SIZE][/U][/B][/COLOR]
+The Eagle comes as a T2 variant only to best use its strength. T2 enables Spike, which is an incredibly useful ammo on the Eagle, allowing Eagles to project high damage very far.
+Train towards T2 Medium Rails ASAP. When flying with the AB fit, substitute the Reactor Control Unit for a Magnetic Field Stabilizer for more damage.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Eagle[/COLOR][/SIZE]
+[SPOILER="T2 MWD Eagle"]
+[Fit=Eagle-Eagle-MWD]
+[/SPOILER]
+[SPOILER="T2 AB Eagle"]
+[Fit=Eagle-Eagle-AB]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]Fitting Note: When MWD fit, this requires Advance Weapon Upgrades 5 & Shield Upgrades 5. If only Shield Upgrades 4, swap to 50MN Y-T8 Compact Microwarpdrive. If only AWU4/SU4, use a 2% Power Grid Implant (EG-602).
+- To keep cost low we run Large Shield Extender II x2 instead of Republic Fleet Large Shield Extenders and T1 Rigs over T2 Rigs, if you would like the extra tank then you are welcome to add those upgrades yourselves but SRP wont reflect those personal changes.[/COLOR]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Logistics[/U][/B][/COLOR][/SIZE]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Basilisk - [/COLOR][/SIZE]Only use if specifically called for by FC for important objectives.
+[Spoiler="HORDE - LOGI V V2.0"]
+[Fit=Shield-Shared/Shield-Basilisk-LogiV-MWD]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]Requires 5/5/5 Logistics Skills and Shield Upgrades 5, if you have Shield Upgrades 4 replace MWD with a 50MN Y-T8 Compact Microwarpdrive.[/COLOR]
+[Spoiler="HORDE - LOGI IV V2.0"]
+[Fit=Shield-Shared/Shield-Basilisk-LogiIV-MWD]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]4/4/4 Shield Upgrades 4 Fitting, Upgrade to 5/5/5 Shield Upgrades 5 asap for full potential. This runs the Large Ancillary so do learn how to use it effectively.[/COLOR]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Kirin - [/COLOR][/SIZE]
+[SPOILER="HORDE Kirin V1.3"]
+[Fit=Shield-Shared/Shield-Kirin-MWD]
+[/SPOILER]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Links[/U][/B][/COLOR][/SIZE]
+Similar to the Logistics wing, there are some choice links ships depending on what the FC needs. Links are generally interchangeable if needed, however, they will be set up in this post as related to their bonuses.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Claymore - [/COLOR][/SIZE]For Eagles, the default Claymore fit is compatible, with no need to fit an extra Overdrive Injector System II. The implants required for Muninn speed are not required.
+[SPOILER="Horde Shield Links Claymore"]
+[Fit=Shield-Shared/Shield-Claymore]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Sleipnir - [/COLOR][/SIZE]Not quite as tanky as the Claymore, but able to hit targets out to ~85KM. SB5 drug is required to keep up.
+[SPOILER="Horde Shield Links Sleipnir"]
+[Fit=Shield-Shared/Shield-Sleipnir]
+[/SPOILER]
+
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]SUPPORT[/SIZE][/U][/B][/COLOR]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Huginn - [/COLOR][/SIZE]Depending on what the FC calls for, with Eagles often flying outside of web range it can be good to utilize the Huginn's painting bonuses to allow for better Eagle application.
+[SPOILER="Horde Shield Fleet Huginn"]
+[Fit=Shield-Shared/Shield-Huginn]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Lachesis - [/COLOR][/SIZE]Another recon ship, the Lachesis is for pointing (tackling) from extremely long range to put pressure on the FC or keep a target from warping away.
+[SPOILER="Shield Fleet Lachesis"]
+[Fit=Shield-Shared/Shield-Lachesis]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Onyx - [/COLOR][/SIZE]A shield heavy interdiction cruiser. Used as heavy tackle and anti-bomber support for shield fleets. Swaps 1 PDS for an Overdrive. SB5 drugs required.
+[SPOILER="Shield Fleet Onyx"]
+[Fit=Shield-Shared/Shield-Onyx]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Jackdaw - [/COLOR][/SIZE]To be used only at FC's request and to be mainly used as defender boat against bombers or as tackle.
+[SPOILER="Shield Doctrine Jackdaw"]
+[Fit=Jackdaw/Jackdaw-Jackdaw]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Defender Corax - [/COLOR][/SIZE]Newbean friendly, the defender Coraxes are essential to keeping the fleet safe from bombs. A good, useful, low-SP ship.
+[SPOILER="Defender Corax"]
+[Fit=Shield-Shared/Shield-Corax]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hyper Fleet Sabre - [/COLOR][/SIZE]The premiere shield "dictor" or "bubbler". Bubbles can be used defensively or offensively for tackling fleets.
+[SPOILER="Hyper Fleet Sabre"]
+[Fit=Shield-Shared/Shield-Sabre-Hyper]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Shield Fleet Flycatcher - [/COLOR][/SIZE]Not as fast, but a lot tankier than it's Minmatar counterpart, the Flycatcher is a good fleet dictor cause you can get shot and possibly live.
+[SPOILER="Shield Fleet Flycatcher"]
+[Fit=Shield-Shared/Shield-Flycatcher]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][U][B][SIZE=6]Other Additions[/SIZE][/B][/U][/COLOR]
+Ewar is dependent on the FC. On the whole, it will be either:
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Crucifiers - [/COLOR][/SIZE]For tracking disruption of the enemy
+[SIZE=5][COLOR=rgb(251, 160, 38)]Griffins - [/COLOR][/SIZE]For jamming enemy Logi or special ships
+[SIZE=5][COLOR=rgb(251, 160, 38)]Mauluses - [/COLOR][/SIZE]For damping enemy Logi or special ships
+[SIZE=5][COLOR=rgb(251, 160, 38)]Vigils - [/COLOR][/SIZE]For painting (increase signature) of enemy primary
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

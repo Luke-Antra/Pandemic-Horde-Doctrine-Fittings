@@ -1,0 +1,78 @@
+[SIZE=4]Our flag ship doctrine. This is when the big guns come out and Horde puts it all out there.[/SIZE]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]DPS[/SIZE][/U][/B][/COLOR]
+[COLOR=rgb(247, 218, 100)]The "Mach" will come in two flavors; a t2 fit thats a bit cheaper, and a faction fit that has a bit more tank for a little more isk.[/COLOR]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Machariel[/COLOR][/SIZE]
+[SPOILER="Machariel T2 Tank"]
+[Fit=Machariel-Machariel-T2]
+[/SPOILER]
+[SPOILER="Machariel Faction Tank"]
+[Fit=Machariel-Machariel-T2-Faction]
+[/SPOILER]
+[SPOILER="Machariel Refits (MUST HAVE)"]
+[Fit=Machariel-Refits]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Logistics[/SIZE][/U][/B][/COLOR]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Guardians - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]Logi IV Guardian pilots have ancillary armor repairers that should be set to auto-repeat off, only used for max burst rep situations.[/COLOR]
+[SPOILER="Logi V Guardian [AB]"]
+[Fit=Armor-Shared/Armor-Guardian-LogiV-AB]
+[/SPOILER]
+[SPOILER="Logi IV Guardian [AB]"]
+[Fit=Armor-Shared/Armor-Guardian-LogiIV-AB]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Augorors - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]Logistics cruisers for lower SP pilots. This fit is newbean friendly.[/COLOR]
+[SPOILER="Augoror"][/SPOILER][SPOILER="Augoror"][/spoiler][SPOILER="Augoror"][/spoiler][SPOILER="Augoror"][/spoiler][SPOILER="Augoror"]
+[Fit=Armor-Shared/Armor-Augoror-AB]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Links[/SIZE][/U][/B][/COLOR]
+[COLOR=rgb(247, 218, 100)]Links are generally interchangable if needed, however, they will be set up in this post as related to their bonuses.[/COLOR]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Damnation - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]Powerful links that augment the fleets stats for the better. Extremely tanky and absolutely necessary. The Damnation is acceptable for all 3 types of links.[/COLOR]
+[SPOILER="Armor Links Damnation"]
+[Fit=Armor-Shared/Armor-Damnation]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Astarte - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]Another powerful links ship. The Astarte gets bonuses to skirmish links, however, not as tanky as the Damnation.[/COLOR]
+[SPOILER="Armor Links Astarte"]
+[Fit=Armor-Shared/Armor-Astarte]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][SIZE=6][B][U]Support[/U][/B][/SIZE][/COLOR]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Loki - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]The webbing support ship of this fleet. Web Lokis slow enemy ships so our battleships can apply their damage much easier.[/COLOR]
+[SPOILER="Web Loki"]
+[Fit=Armor-Shared/Armor-Loki-Web-RETIRED]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Devoter - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]A heavy interdiction cruiser. The Devoter is used as heavy tackle on enemy capitals, scramming command destroyers, and anti-bomber support with their "Hictor" bubbles and scripted points.[/COLOR]
+[SPOILER="Armor Devoter"]
+[Fit=Armor-Shared/Armor-Devoter]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Phobos - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]Another heavy interdiction cruiser. Similar to the comparison of the Damnation and Astarte, it is less tanky than it's amarr counterpart, the Devoter, but still extremely useful.[/COLOR]
+[SPOILER="Armor Phobos"]
+[Fit=Armor-Shared/Armor-Phobos]
+[/SPOILER]
+[COLOR=rgb(251, 160, 38)][SIZE=5]Anti-Bomber Legion - [/SIZE][/COLOR][COLOR=rgb(247, 218, 100)]Another Tech-III cruiser, this Legion excels at locking and killing bombers very quickly and are extremely helpful in supporting the fleet to not dying to bombs.[/COLOR]
+[SPOILER="Anti-Bomber Legion"]
+[Fit=Armor-Shared/Armor-Legion-Antibomb-RETIRED]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Defender Dragoon - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]Newbean friendly, the defender Dragoons are essential to keeping the fleet safe from bombs. A good, useful, low-SP ship.[/COLOR]
+[SPOILER="Defender Dragoon"]
+[Fit=Armor-Shared/Armor-Dragoon]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Armor Fleet Heretic - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]The premiere armor "dictor" or "bubbler". A flex mid slot allows to fit a scram instead of web if needed for anti-bombers. Bubbles can be used defensively or offensively for tackling fleets.[/COLOR]
+[SPOILER="Armor Fleet Heretic"]
+[Fit=Armor-Shared/Armor-Heretic]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Other Additions[/SIZE][/U][/B][/COLOR]
+Ewar is dependent on the FC. On the whole, it will be either:
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Crucifiers - [/COLOR][/SIZE]For tracking disruption of the enemy.
+[SIZE=5][COLOR=rgb(251, 160, 38)]Griffins - [/COLOR][/SIZE]For jamming enemy Logi or special ships.
+[SIZE=5][COLOR=rgb(251, 160, 38)]Mauluses - [/COLOR][/SIZE]For damping enemy Logi or special ships.
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

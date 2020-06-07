@@ -1,0 +1,22 @@
+[Dragoon, Defender Dragoon]
+Energized Adaptive Nano Membrane II
+400mm Steel Plates II
+Damage Control II
+Explosive Plating II
+
+1MN Monopropellant Enduring Afterburner
+Faint Epsilon Scoped Warp Scrambler
+F-90 Compact Sensor Booster
+
+Defender Launcher I
+
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+
+Warrior I x15
+
+Targeting Range Script x1
+Scan Resolution Script x1
+Defender Missile I x50
+ECCM Script x1

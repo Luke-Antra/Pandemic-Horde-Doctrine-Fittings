@@ -1,0 +1,36 @@
+[Loki, Beanstorm Web Loki]
+Imperial Navy Energized Adaptive Nano Membrane
+Imperial Navy 1600mm Steel Plates
+Imperial Navy 1600mm Steel Plates
+Corpus X-Type Explosive Armor Hardener
+Corpus X-Type Kinetic Armor Hardener
+
+Sensor Booster II
+Federation Navy 10MN Afterburner
+Federation Navy Stasis Webifier
+Federation Navy Stasis Webifier
+Target Painter II
+
+Expanded Probe Launcher II
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+Auto Targeting System II
+
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+Medium Thermal Armor Reinforcer II
+
+Loki Core - Immobility Drivers
+Loki Defensive - Augmented Durability
+Loki Offensive - Projectile Scoping Array
+Loki Propulsion - Intercalated Nanofibers
+
+Warrior II x5
+
+ECCM Script x1
+Targeting Range Script x2
+Scan Resolution Script x1
+Sisters Combat Scanner Probe x16
+EMP S x1700
+Nanite Repair Paste x500
+

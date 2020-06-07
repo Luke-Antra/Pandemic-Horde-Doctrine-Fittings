@@ -1,18 +1,16 @@
-[SIZE=5]Our bread and butter response or mid range doctrine. The Ferox fleet is great at about everything; range, damage, it does it all. They're very cheap and insure well.[/SIZE]
+[SIZE=5]The Hurricane can punch above it's weight class in proper numbers. They're very good at trading with high alpha, though close range. They're very cheap and insure well.[/SIZE]
 
-[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]DPS[/SIZE][/U][/B][/COLOR]
-The Ferox comes as a T1 and T2 variant depending on skills. Obviously the T2 variant has a bit more flexibility and everyone should strive to fly it.
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]DPS[/U][/B][/COLOR][/SIZE]
+The Hurricane comes as a T1 and T2 variant depending on skills. Obviously the T2 variant has a bit more damage and everyone should strive to fly it.
 
-[SIZE=5][COLOR=rgb(251, 160, 38)]T1 Ferox[/COLOR][/SIZE]
-[SPOILER="T1 Ferox"]
-[Fit=Ferox-Ferox-T1]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hurricane[/COLOR][/SIZE]
+[SPOILER="T1 Hurricane"]
+[Fit=Hurricane-Hurricane-T1]
 [/SPOILER]
 
-[SIZE=5][COLOR=rgb(251, 160, 38)]T2 Ferox[/COLOR][/SIZE]
-[SPOILER="T2 Ferox"][/SPOILER][SPOILER="T2 Ferox"][/spoiler][SPOILER="T2 Ferox"]
-[Fit=Ferox-Ferox-T2]
+[SPOILER="T2 Hurricane"]
+[Fit=Hurricane-Hurricane-T2]
 [/SPOILER]
-
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Logistics[/U][/B][/COLOR][/SIZE]
 Typically Osprey are fine for logi. There will be points where Basilisk are called. They are extremely helpful and it is good to have both.
@@ -32,8 +30,14 @@ Typically Osprey are fine for logi. There will be points where Basilisk are call
 [/SPOILER]
 [COLOR=rgb(247, 218, 100)]4/4/4 Shield Upgrades 4 Fitting, Upgrade to 5/5/5 Shield Upgrades 5 asap for full potential. This runs the Large Ancillary so do learn how to use it effectively.[/COLOR]
 
+[B][U][/U][/B]
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Links[/U][/B][/COLOR][/SIZE]
 Similar to the Logistics wing, there are some choice links ships depending on what the FC needs. Sometimes it is Drake links for cost effectiveness, or more expensive Command Ships if it is deemed necessary. Links are generally interchangable if needed, however, they will be set up in this post as related to their bonuses.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Vulture - [/COLOR][/SIZE]Powerful links that augment the fleets stats for the better.  The Vulture is acceptable for all 3 types of links.
+[SPOILER="Links Vulture"]
+[Fit=Shield-Shared/Shield-Vulture]
+[/SPOILER]
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Drake - [/COLOR][/SIZE]The Drake is used for cheap links for when Valhalla is expected, it also gives your fleet a good boost for low cost for newer FC's to be more comfortable with the cost of their fleet. Please remember to fit proper links for what is needed.
 [SPOILER="Links Drake"]

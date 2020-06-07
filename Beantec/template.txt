@@ -11,7 +11,7 @@ Standard Drop Booster
 [COLOR=rgb(84, 172, 210)][B][U][SIZE=6]DPS[/SIZE][/U][/B][/COLOR]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Advanced Bhaalgorn - [/COLOR][/SIZE]Higher SP DPS Ship, Alternative to Apoc but requires higher skill points.
 [SPOILER="Advanced T2 Tachyon Bhaalgorn"]
-[Fit=Beantec-Megathron-T1]
+[Fit=Beantec-Bhaalgorn-Adv]
 [/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Standard DPS Ships (Apocs > Bhaal (Stnd) > Mega)[/COLOR][/SIZE]
 [SPOILER="Beantec Megathron, T2"]

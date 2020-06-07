@@ -1,0 +1,44 @@
+[Machariel, Doctrine Machariel T2]
+
+1600mm Steel Plates II
+1600mm Steel Plates II
+Explosive Armor Hardener II
+Energized Adaptive Nano Membrane II
+Kinetic Armor Hardener II
+Thermal Armor Hardener II
+
+100MN Y-S8 Compact Afterburner
+Tracking Disruptor II
+Sensor Booster II
+Tracking Computer II
+Tracking Computer II
+Tracking Computer II
+
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+Medium 'Vehemence' Shockwave Charge
+
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+Warrior II x5
+Vespa EC-600 x10
+
+Republic Fleet EMP L x1000
+Republic Fleet Proton L x1000
+Republic Fleet Phased Plasma L x1000
+Republic Fleet Depleted Uranium L x1000
+Republic Fleet Fusion L x1000
+Optimal Range Script x3
+Tracking Speed Script x3
+Tracking Speed Disruption Script x1
+ECCM Script x1
+Targeting Range Script x1
+Scan Resolution Script x1
+Targeting Range Dampening Script x1

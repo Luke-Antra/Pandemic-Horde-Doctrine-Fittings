@@ -1,4 +1,4 @@
-[Guardian, [HORDE] Guardian [MWD][LOGI IV] v2.0]
+[Guardian, [HORDE] Guardian [AB][LOGI IV] v2.0]
 
 1600mm Steel Plates II
 Energized Adaptive Nano Membrane II
@@ -7,12 +7,12 @@ Dark Blood Thermal Armor Hardener
 Damage Control II
 
 Sensor Booster II
-50MN Quad LiF Restrained Microwarpdrive
+10MN Afterburner II
 
 Medium Remote Armor Repairer II
 Medium Remote Armor Repairer II
 Medium Remote Armor Repairer II
-Medium Remote Armor Repairer II
+Large I-ax Enduring Remote Armor Repairer
 Large Ancillary Remote Armor Repairer
 Large Inductive Compact Remote Capacitor Transmitter
 

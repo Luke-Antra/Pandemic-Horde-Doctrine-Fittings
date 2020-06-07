@@ -1,11 +1,11 @@
-[Augoror, Beanstorm Augoror MWD]
+[Augoror, Beanstorm Augoror AB]
 800mm Steel Plates II
 Damage Control II
 Energized Adaptive Nano Membrane II
 Energized Adaptive Nano Membrane II
-Mark I Compact Reactor Control Unit
+Explosive Armor Hardener II
 
-50MN Cold-Gas Enduring Microwarpdrive
+10MN Y-S8 Compact Afterburner
 Sensor Booster II
 Small F-RX Compact Capacitor Booster
 
@@ -15,7 +15,7 @@ Medium Coaxial Compact Remote Armor Repairer
 Medium Coaxial Compact Remote Armor Repairer
 Medium Inductive Compact Remote Capacitor Transmitter
 
-Medium Explosive Armor Reinforcer I
+Medium Trimark Armor Pump I
 Medium Trimark Armor Pump I
 Medium Trimark Armor Pump I
 

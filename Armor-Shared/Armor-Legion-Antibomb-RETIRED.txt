@@ -1,0 +1,38 @@
+[Legion, Anti-Bomb Legion]
+Damage Control II
+Coreli A-Type Adaptive Nano Plating
+1600mm Steel Plates II
+Corpum A-Type Energized Kinetic Membrane
+Heat Sink II
+Corpus X-Type Thermal Armor Hardener
+Corpus X-Type EM Armor Hardener
+
+10MN Afterburner II
+Sensor Booster II
+Sensor Booster II
+
+Heavy Beam Laser II
+Heavy Beam Laser II
+Heavy Beam Laser II
+Small EMP Smartbomb II
+Heavy Beam Laser II
+Heavy Beam Laser II
+Heavy Beam Laser II
+
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+Medium Explosive Armor Reinforcer II
+
+Legion Core - Augmented Antimatter Reactor
+Legion Defensive - Augmented Plating
+Legion Offensive - Liquid Crystal Magnifiers
+Legion Propulsion - Wake Limiter
+
+Navy Cap Booster 400 x26
+Tracking Speed Disruption Script x2
+Imperial Navy Multifrequency M x12
+Scan Resolution Script x6
+Aurora M x18
+Targeting Range Dampening Script x4
+Imperial Navy Standard M x6
+Imperial Navy Radio M x6

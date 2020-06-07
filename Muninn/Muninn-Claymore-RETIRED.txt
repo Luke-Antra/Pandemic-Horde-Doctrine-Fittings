@@ -2,8 +2,8 @@
 
 Damage Control II
 Overdrive Injector System II
-Overdrive Injector System II
 Nanofiber Internal Structure II
+Overdrive Injector System II
 
 50MN Cold-Gas Enduring Microwarpdrive
 Large Shield Extender II
@@ -22,22 +22,18 @@ Heavy Missile Launcher II
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
-Zor's Custom Navigation Hyper-Link
-Eifyr and Co. 'Rogue' High Speed Maneuvering HS-903
-
-Standard Mindflood Booster x3
 Caldari Navy Mjolnir Heavy Missile x1500
+Electronic Hardening Charge x600
+Electronic Superiority Charge x600
+Sensor Optimization Charge x600
 Nanite Repair Paste x100
 Active Shielding Charge x600
-Shield Harmonizing Charge x600
 Shield Extension Charge x600
-Sensor Optimization Charge x600
-Electronic Superiority Charge x600
-Electronic Hardening Charge x600
+Shield Harmonizing Charge x600
 Evasive Maneuvers Charge x600
 Interdiction Maneuvers Charge x600
 Rapid Deployment Charge x600
+Mobile Depot x1
+Standard Mindflood Booster x3
 Information Command Burst II x2
 Shield Command Burst II x2
-Agency 'Overclocker' SB5 Dose II
-Scourge Precision Heavy Missile x1500
