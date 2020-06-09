@@ -1,0 +1,75 @@
+[SIZE=4]Purpose: Fun home defense fleets, a new doctrine we can fly with a different style than our usual ones. Affordable and different than our usual things.[/SIZE]
+
+[SIZE=4]Composition:
+DPS: Augoror Navy Issue
+Logi: Guardian, Oneiros, Augoror
+Links: Damnation, Loki, Legion
+Support: Pontifex, Magus, Deacon, Thalia, Web Loki, Point Proteus, Beam fit Legion, Dictors, tackle frigs
+Newbeans: Fly tackle frig with scram and web fit![/SIZE]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]DPS[/U][/B][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Augoror Navy Issue[/COLOR][/SIZE]
+[SPOILER="Augoror Navy Issue"]
+[Fit=BeanBricks-AugororNavyIssue]
+[/SPOILER]
+[COLOR=rgb(247, 218, 100)]Fitting Note: There is no benefit to a faction armor hardener vs. T2, except for tight CPU fitting. With perfect skills, fitting 1 faction and 2 T2 hardeners will work and save on the cost of the ship. If imperfect skills, a Zainou 'Gypsy' CPU Management EE-601 will allow this.[/COLOR]
+[COLOR=rgb(0, 168, 133)]Seeders Note: When purchasing fittings, take care to look for the cheapest faction armor hardeners between EM, Thermal, and Explosive.[/COLOR]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Logistics[/U][/B][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Guardian[/COLOR][/SIZE]
+[SPOILER="Logi 5 Guardian"]
+[Fit=Armor-Shared/Armor-Guardian-LogiV-AB]
+[/SPOILER]
+[SPOILER="Logi 4 Guardian"]
+[Fit=Armor-Shared/Armor-Guardian-LogiIV-AB]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Oneiros[/COLOR][/SIZE] - Oneiros are dualprop, so always run afterburner, pulse MWD to catch up in emergencies.
+[SPOILER="Beantec Oneiros"]
+[Fit=Beantec/Beantec-Oneiros]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Thalia - [/COLOR][/SIZE]Refit to afterburner.
+[SPOILER="Thalia"]
+[Fit=Armor-Shared/Armor-Thalia]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Deacon - [/COLOR][/SIZE]Refit to afterburner.
+[SPOILER="Deacon"]
+[Fit=Armor-Shared/Armor-Deacon]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Augoror[/COLOR][/SIZE]
+[SPOILER="Augoror"]
+[Fit=Armor-Shared/Armor-Augoror-AB]
+[/SPOILER]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Links[/U][/B][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Damnation[/COLOR][/SIZE]
+[SPOILER="Damnation"]
+[Fit=Armor-Shared/Armor-Damnation]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Pontifex - [/COLOR][/SIZE]Refit to afterburner.
+[SPOILER="Pontifex"]
+[Fit=Armor-Shared/Armor-Pontifex]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Magus - [/COLOR][/SIZE]Refit to afterburner.
+[SPOILER="Magus"]
+[Fit=Armor-Shared/Armor-Magus]
+[/SPOILER]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Support[/U][/B][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Heretic[/COLOR][/SIZE]
+[SPOILER="Heretic"]
+[Fit=Armor-Shared/Armor-Heretic]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Sabre[/COLOR][/SIZE]
+[SPOILER="Hyper Fleet Sabre"]
+[Fit=Shield-Shared/Shield-Sabre-Hyper]
+[/SPOILER]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Other Additions[/U][/B][/COLOR][/SIZE]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Tackle Frigates with scram and web fit.[/COLOR][/SIZE]
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

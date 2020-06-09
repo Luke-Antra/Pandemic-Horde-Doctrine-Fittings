@@ -1,0 +1,63 @@
+[SIZE=5]Jackdaws are a Tech-III Destroyer missile platform. They have good tank and very long range with good damage volley.[/SIZE]
+
+[COLOR=rgb(84, 172, 210)][U][SIZE=6][B]DPS[/B][/SIZE][/U][/COLOR]
+There's only one variation of fleet Jackdaw.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Jackdaw[/COLOR][/SIZE]
+[SPOILER="Doctrine Jackdaw"]
+[Fit=Jackdaw-Jackdaw]
+[/SPOILER]
+
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Logistics[/U][/B][/COLOR][/SIZE]
+There are some good choices for logi. The best logi, of course, is the T2 variant (Scalpels and Kirins), but T1 frigate logi is still solid, just not very tanky.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Kirin - [/COLOR][/SIZE]Shield frigate logistics. Good tank and good reps, a little slower than it's Minmatar counterpart.
+[SPOILER="HORDE Kirin V1.3"]
+[Fit=Shield-Shared/Shield-Kirin-MWD]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Scalpel - [/COLOR][/SIZE]Shield frigate logistics. Good speed and low sig. A little less tanky than the Kirin.
+[SPOILER="Shield Fleet Scalpel"]
+[Fit=Shield-Shared/Shield-Scalpel]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Burst - [/COLOR][/SIZE]Shield frigate logistics. Newbean friendly.
+[SPOILER="Shield Fleet Burst"]
+[Fit=NBI/NBI-Burst]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Bantam - [/COLOR][/SIZE]Shield frigate logistics. Newbean friendly.
+[SPOILER="Shield Fleet Bantam"]
+[Fit=NBI/NBI-Bantam]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Links[/SIZE][/U][/B][/COLOR]
+As usual, tailor your links to what is needed for the fleet.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Bifrost[/COLOR][/SIZE]
+[SPOILER="HORDE Bifrost MWD/AB"]
+[FIt=Shield-Shared/Shield-Bifrost]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Stork[/COLOR][/SIZE]
+[SPOILER="HORDE Stork MWD/AB"]
+[Fit=Shield-Shared/Shield-Stork]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Support[/SIZE][/U][/B][/COLOR]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Shield Fleet Sabre - [/COLOR][/SIZE]The premiere shield "dictor" or "bubbler". Bubbles can be used defensively or offensively for tackling fleets.
+[SPOILER="Shield Fleet Sabre"]
+[Fit=Shield-Shared/Shield-Sabre]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Flycatcher - [/COLOR][/SIZE]Not as fast, but a lot tankier than it's Minmatar counterpart, the Flycatcher is a good fleet dictor cause you can get shot and possibly live.
+[SPOILER="Shield Fleet Flycatcher"]
+[Fit=Shield-Shared/Shield-Flycatcher]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Other Additions[/SIZE][/U][/B][/COLOR]
+Ewar is dependent on the FC. On the whole, it will be either:
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Crucifiers - [/COLOR][/SIZE]For tracking disruption of the enemy
+[SIZE=5][COLOR=rgb(251, 160, 38)]Griffins - [/COLOR][/SIZE]For jamming enemy Logi or special ships
+[SIZE=5][COLOR=rgb(251, 160, 38)]Mauluses - [/COLOR][/SIZE]For damping enemy Logi or special ships
+[SIZE=5][COLOR=rgb(251, 160, 38)]Interceptors/Tackle - [/COLOR][/SIZE]Tackle is always helpful and always welcome
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

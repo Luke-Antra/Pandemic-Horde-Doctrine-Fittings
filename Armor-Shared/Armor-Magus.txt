@@ -30,3 +30,4 @@ Evasive Maneuvers Charge x300
 Interdiction Maneuvers Charge x300
 Rapid Deployment Charge x300
 Armor Command Burst II x1
+1MN Afterburner II x1

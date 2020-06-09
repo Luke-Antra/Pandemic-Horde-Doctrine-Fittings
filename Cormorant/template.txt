@@ -1,0 +1,28 @@
+[SIZE=4]Cormorants are very strong. They have very long range and great application and nimble. They have 0 tank, but warp at range and blap targets that underestimate your DPS (Or INIT Ravens and booshers). They're very low SP and everyone can fly one quickly.[/SIZE]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]DPS[/SIZE][/U][/B][/COLOR]
+The Longbow Cormorants have two different variants. Like with most platforms, the Cormorant has a T1 and T2 version with the T2 version offering more DPS and range.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]T1 Cormorant[/COLOR][/SIZE]
+[SPOILER="T1 Cormorant"]
+[Fit=Cormorant-Cormorant-T1]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]T2 Cormorant[/COLOR][/SIZE]
+[SPOILER="T2 Cormorant"]
+[Fit=Cormorant-Cormorant-T2]
+[/SPOILER]
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Links[/U][/B][/COLOR][/SIZE]
+As usual, tailor your links to what is needed for the fleet. Skirmish links are most important for the lock range for the cormorants
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Stork[/COLOR][/SIZE]
+[SPOILER="HORDE Stork MWD/AB"]
+[Fit=Shield-Shared/Shield-Stork]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Bifrost[/COLOR][/SIZE]
+[SPOILER="HORDE Bifrost MWD/AB"]
+[Fit=Shield-Shared/Shield-Bifrost]
+[/SPOILER]
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

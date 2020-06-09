@@ -1,0 +1,24 @@
+[SIZE=5]Talwars are similar to Cormorants in they're very long range, however, instead of railguns, they use missiles. A good learning ship, and still powerful in decent numbers. They'll have a little more tank than the Cormorants.[/SIZE]
+
+[COLOR=rgb(84, 172, 210)][U][SIZE=6][B]DPS[/B][/SIZE][/U][/COLOR]
+Only one variation of Talwar currently.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Doctrine Talwar[/COLOR][/SIZE]
+[SPOILER="Doctrine Talwar"]
+[Fit=Talwar-Talwar]
+[/SPOILER]
+
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]Links[/SIZE][/U][/B][/COLOR]
+As usual, tailor your links to what is needed for the fleet. Skirmish links are most important for lock range.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Bifrost[/COLOR][/SIZE]
+[SPOILER="HORDE Bifrost MWD/AB"]
+[FIt=Shield-Shared/Shield-Bifrost]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Stork[/COLOR][/SIZE]
+[SPOILER="HORDE Stork MWD/AB"]
+[Fit=Shield-Shared/Shield-Stork]
+[/SPOILER]
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

@@ -1,0 +1,31 @@
+[Pilgrim, [REKTD] Cyno Armor Recon IV]
+
+1600mm Steel Plates II
+1600mm Crystalline Carbonide Restrained Plates
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Damage Control II
+
+50MN Y-T8 Compact Microwarpdrive
+Warp Scrambler II
+Fleeting Compact Stasis Webifier
+Warp Disruptor II
+Fleeting Compact Stasis Webifier
+
+Covert Ops Cloaking Device II
+Cynosural Field Generator I
+Covert Cynosural Field Generator I
+Small Energy Neutralizer II
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+Acolyte II x5
+Hammerhead II x5
+Hornet EC-300 x5
+Infiltrator II x5
+
+
+Nanite Repair Paste x50
+Liquid Ozone x600

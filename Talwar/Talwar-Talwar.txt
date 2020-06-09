@@ -1,0 +1,28 @@
+[Talwar, Doctrine Talwar]
+Micro Auxiliary Power Core I
+Type-D Restrained Capacitor Power Relay
+Micro Auxiliary Power Core I
+
+5MN Cold-Gas Enduring Microwarpdrive
+Sensor Booster I
+Medium Shield Extender I
+
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+Light Missile Launcher I
+
+Small Hydraulic Bay Thrusters I
+Small Hydraulic Bay Thrusters I
+Small Processor Overclocking Unit I
+
+Scourge Light Missile x400
+Inferno Light Missile x400
+Mjolnir Light Missile x400
+Nova Light Missile x800
+Caldari Navy Nova Light Missile x400
+Targeting Range Script x1
+Scan Resolution Script x1

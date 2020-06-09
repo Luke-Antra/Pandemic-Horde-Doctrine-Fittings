@@ -1,0 +1,30 @@
+Bombing bombers (also called "pure bombers") have been used to great effect and will continue to be used. A wide, high damage, AOE can turn the tides of a fight, even in smaller numbers.
+
+[SIZE=6][COLOR=rgb(84, 172, 210)][B][U]DPS[/U][/B][/COLOR][/SIZE]
+There is a bomber for each race. There is heavy leaning towards the Hound and Purifier being better bombers with better stats, slot layout, and bonuses.
+
+[COLOR=rgb(247, 218, 100)][B][SIZE=4]Note: Bombs are not to be included when bombers are sold/seeded.[/SIZE][/B][/COLOR]
+They should be loaded at form-up time with instructions from FC. This is to coordinate what type and damage type of bomb, as different flavor bombs will disrupt each other.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hound[/COLOR][/SIZE]
+[SPOILER="Bomber Hound"]
+[Fit=Bomber-Hound]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Purifier[/COLOR][/SIZE]
+[SPOILER="Bomber Purifier"]
+[Fit=Bomber-Purifier]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Manticore[/COLOR][/SIZE]
+[SPOILER="Bomber Manticore"]
+[Fit=Bomber-Manticore]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Nemesis[/COLOR][/SIZE]
+[SPOILER="Bomber Nemesis"]
+[Fit=Bomber-Nemesis]
+[/SPOILER]
+
+Last edited by Qymmscript on:
+[TIMESTAMP]

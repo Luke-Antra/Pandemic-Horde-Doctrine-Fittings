@@ -37,3 +37,4 @@ Interdiction Maneuvers Charge x600
 Rapid Deployment Charge x600
 Information Command Burst II x2
 Skirmish Command Burst II x2
+1MN Afterburner II x1

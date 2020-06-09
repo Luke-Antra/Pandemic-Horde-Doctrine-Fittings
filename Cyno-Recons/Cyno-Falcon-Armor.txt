@@ -1,0 +1,28 @@
+[Falcon, [REKTD] Falcon Cyno Armor Recon IV and V]
+
+Damage Control II
+1600mm Steel Plates II
+Energized Adaptive Nano Membrane II
+
+50MN Y-T8 Compact Microwarpdrive
+Large Azeotropic Restrained Shield Extender
+Large Azeotropic Restrained Shield Extender
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+EM Shield Hardener II
+Explosive Shield Hardener II
+
+Cynosural Field Generator I
+Covert Cynosural Field Generator I
+Covert Ops Cloaking Device II
+[Empty High slot]
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+Hornet EC-300 x2
+
+
+Nanite Repair Paste x50
+Liquid Ozone x600

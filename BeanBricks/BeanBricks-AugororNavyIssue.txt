@@ -1,0 +1,37 @@
+
+[Augoror Navy Issue, Bean Brick v1]
+
+Shadow Serpentis Armor Thermal Hardener
+Damage Control II
+1600mm Steel Plates II
+Dark Blood Armor Kinetic Hardener
+Heat Sink II
+Heat Sink II
+Armor Explosive Hardener II
+
+Small Capacitor Booster II
+Tracking Computer II
+10MN Afterburner II
+
+Heavy Beam Laser II
+Small Gremlin Compact Energy Neutralizer
+Heavy Beam Laser II
+Small Gremlin Compact Energy Neutralizer
+Heavy Beam Laser II
+
+Medium Anti-EM Pump I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+Acolyte II x3
+
+Navy Cap Booster 400 x36
+Optimal Range Script x1
+Tracking Speed Script x1
+Imperial Navy Multifrequency M x3
+Imperial Navy Gamma M x3
+Imperial Navy Xray M x6
+Aurora M x3
+Imperial Navy Standard M x3
+Gleam M x3
+Nanite Repair Paste x100

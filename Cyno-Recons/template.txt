@@ -1,0 +1,325 @@
+Following the changes to the ships capable of fitting a Cynosural Field Generator, we recommend the following as baseline cyno fits.  The fits are modular, meaning they can and should be refitted to have more tank, mobility, or tackle as the situation requires.  For example, refitting the Falcon to full tank would be removing the 50mn MWD, Nano and Co-proc in exchange for a 4th Large Shield Extender and two Power Diagnostic Systems in the low slots. Generally, the shield fits offer increased mobility and combat probes, and the armor fits offer utility mids that can be used for tackle.  The Falcon is the shield fit with the highest hitpoints, and the Pilgrim is the armor equivalent.
+
+All strategic and home defense use of cyno recons is covered by our Ship Replacement Program [SRP/Gobloons] at 300 million ISK each.
+
+[B][U]Shield Fits:[/U][/B]
+
+[SPOILER="Falcon Cyno"][Falcon, [REKTD] Cyno Recon IV & V]
+
+Damage Control II
+Co-Processor II
+Nanofiber Internal Structure II
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Large Shield Extender II
+EM Shield Hardener II
+
+Expanded Probe Launcher I, Sisters Combat Scanner Probe
+Cynosural Field Generator I
+Covert Ops Cloaking Device II
+Covert Cynosural Field Generator I
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+Hornet EC-300 x2
+
+Nanite Repair Paste x50
+Sisters Combat Scanner Probe x8
+Liquid Ozone x600[/SPOILER]
+
+[SPOILER="Rapier Cyno"][Rapier, [REKTD] Cyno Recon IV & V]
+
+Damage Control II
+Co-Processor II
+Power Diagnostic System II
+Nanofiber Internal Structure II
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Large Shield Extender II
+
+Expanded Probe Launcher I, Sisters Combat Scanner Probe
+Cynosural Field Generator I
+Covert Ops Cloaking Device II
+Covert Cynosural Field Generator I
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+
+Hornet EC-300 x5
+Hornet EC-300 x3
+
+
+Nanite Repair Paste x50
+Sisters Combat Scanner Probe x8
+Liquid Ozone x600[/SPOILER]
+
+[SPOILER="Arazu Cyno Recon V"][Arazu, [REKTD] Cyno Recon V]
+
+Damage Control II
+Co-Processor II
+Co-Processor II
+Nanofiber Internal Structure II
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Large Shield Extender II
+EM Shield Hardener II
+
+Expanded Probe Launcher I, Sisters Combat Scanner Probe
+Cynosural Field Generator I
+Covert Ops Cloaking Device II
+Covert Cynosural Field Generator I
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+
+Acolyte II x3
+Hornet EC-300 x5
+
+
+Nanite Repair Paste x50
+Sisters Combat Scanner Probe x8
+Liquid Ozone x600[/SPOILER]
+
+[SPOILER="Arazu Cyno Recon IV"][Arazu, [REKTD] Cyno Recon IV]
+
+Damage Control II
+Co-Processor II
+Co-Processor II
+Nanofiber Internal Structure II
+
+50MN Quad LiF Restrained Microwarpdrive
+Large Azeotropic Restrained Shield Extender
+Large Azeotropic Restrained Shield Extender
+Multispectrum Shield Hardener II
+Large Shield Extender II
+EM Shield Hardener II
+
+Expanded Probe Launcher I, Sisters Combat Scanner Probe
+Cynosural Field Generator I
+Covert Ops Cloaking Device II
+Covert Cynosural Field Generator I
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+
+Acolyte II x3
+Hornet EC-300 x5
+
+
+Nanite Repair Paste x50
+Sisters Combat Scanner Probe x8
+Liquid Ozone x600[/SPOILER]
+
+[SPOILER="Pilgrim Cyno"][Pilgrim, [REKTD] Cyno Recon IV & V]
+
+Damage Control II
+Power Diagnostic System II
+Co-Processor II
+Co-Processor II
+Co-Processor II
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+EM Shield Hardener II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+
+Expanded Probe Launcher I, Sisters Combat Scanner Probe
+Cynosural Field Generator I
+Covert Ops Cloaking Device II
+Covert Cynosural Field Generator I
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+
+Nanite Repair Paste x50
+Sisters Combat Scanner Probe x8
+Liquid Ozone x600[/SPOILER]
+
+[B][U]Armor Fits:[/U][/B]
+
+[SPOILER="Pilgrim Cyno Armor Recon V"][Pilgrim, [REKTD] Cyno Armor Recon V]
+
+1600mm Steel Plates II
+1600mm Crystalline Carbonide Restrained Plates
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Damage Control II
+
+50MN Y-T8 Compact Microwarpdrive
+Warp Scrambler II
+Stasis Webifier II
+Warp Disruptor II
+Stasis Webifier II
+
+Covert Ops Cloaking Device II
+Cynosural Field Generator I
+Covert Cynosural Field Generator I
+Small Energy Neutralizer II
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+Acolyte II x5
+Hammerhead II x5
+Hornet EC-300 x5
+Infiltrator II x5
+
+
+Nanite Repair Paste x50
+Liquid Ozone x600[/SPOILER]
+
+[SPOILER="Pilgrim Cyno Armor Recon IV"][Pilgrim, [REKTD] Cyno Armor Recon IV]
+
+1600mm Steel Plates II
+1600mm Crystalline Carbonide Restrained Plates
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Damage Control II
+
+50MN Y-T8 Compact Microwarpdrive
+Warp Scrambler II
+Fleeting Compact Stasis Webifier
+Warp Disruptor II
+Fleeting Compact Stasis Webifier
+
+Covert Ops Cloaking Device II
+Cynosural Field Generator I
+Covert Cynosural Field Generator I
+Small Energy Neutralizer II
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+Acolyte II x5
+Hammerhead II x5
+Hornet EC-300 x5
+Infiltrator II x5
+
+
+Nanite Repair Paste x50
+Liquid Ozone x600[/SPOILER]
+
+[SPOILER="Arazu Cyno Armor"][Arazu, [REKTD] Cyno Armor Recon IV and V]
+
+1600mm Steel Plates II
+Energized Adaptive Nano Membrane II
+Damage Control II
+Explosive Armor Hardener II
+
+50MN Quad LiF Restrained Microwarpdrive
+Warp Disruptor II
+Warp Scrambler II
+Warp Scrambler II
+Sensor Booster II, Scan Resolution Script
+Medium Capacitor Booster II, Navy Cap Booster 400
+
+Covert Ops Cloaking Device II
+Cynosural Field Generator I
+Covert Cynosural Field Generator I
+Small EMP Smartbomb II
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+Hornet EC-300 x5
+Warrior II x3
+
+
+Navy Cap Booster 400 x8
+Nanite Repair Paste x50
+Liquid Ozone x500[/SPOILER]
+
+[SPOILER="Rapier Cyno Armor"][Rapier, [REKTD] Cyno Armor Recon IV and V]
+
+1600mm Steel Plates II
+Energized Adaptive Nano Membrane II
+Explosive Armor Hardener II
+Damage Control II
+
+50MN Cold-Gas Enduring Microwarpdrive
+Stasis Webifier II
+Stasis Webifier II
+Warp Disruptor II
+Warp Scrambler II
+Medium Capacitor Booster II, Navy Cap Booster 400
+
+Covert Ops Cloaking Device II
+Cynosural Field Generator I
+Covert Cynosural Field Generator I
+Small EMP Smartbomb II
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+Hornet EC-300 x5
+Warrior II x3
+
+
+Navy Cap Booster 400 x8
+Nanite Repair Paste x50
+Liquid Ozone x500[/SPOILER]
+
+[SPOILER="Falcon Cyno Armor"][Falcon, [REKTD] Falcon Cyno Armor Recon IV and V]
+
+Damage Control II
+1600mm Steel Plates II
+Energized Adaptive Nano Membrane II
+
+50MN Y-T8 Compact Microwarpdrive
+Large Azeotropic Restrained Shield Extender
+Large Azeotropic Restrained Shield Extender
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+EM Shield Hardener II
+Explosive Shield Hardener II
+
+Cynosural Field Generator I
+Covert Cynosural Field Generator I
+Covert Ops Cloaking Device II
+[Empty High slot]
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+Hornet EC-300 x2
+
+
+Nanite Repair Paste x50
+Liquid Ozone x600[/SPOILER]
+
+Armor Falcon has high buffer, but weird shield/armor HP split. Not recommended.
+
+
+
+[B][U]Change Log 2019-10-05[/U][/B]
+
+- Added max tank example refit
+- Added SRP amount
+
+[B][U]Change Log 2019-09-13[/U][/B]
+
+- Added armor fits
+- Added missing Falcon drones
+- Fixed formatting errors
