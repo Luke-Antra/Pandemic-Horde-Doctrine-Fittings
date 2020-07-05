@@ -1,13 +1,13 @@
 
 [Augoror Navy Issue, Bean Brick v1]
 
-Shadow Serpentis Armor Thermal Hardener
+Shadow Serpentis Thermal Armor Hardener
 Damage Control II
 1600mm Steel Plates II
-Dark Blood Armor Kinetic Hardener
+Dark Blood Kinetic Armor Hardener
 Heat Sink II
 Heat Sink II
-Armor Explosive Hardener II
+Explosive Armor Hardener II
 
 Small Capacitor Booster II
 Tracking Computer II
@@ -19,7 +19,7 @@ Heavy Beam Laser II
 Small Gremlin Compact Energy Neutralizer
 Heavy Beam Laser II
 
-Medium Anti-EM Pump I
+Medium EM Armor Reinforcer I
 Medium Trimark Armor Pump I
 Medium Trimark Armor Pump I
 

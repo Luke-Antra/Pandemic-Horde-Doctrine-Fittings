@@ -37,7 +37,7 @@ As usual, tailor your links to what is needed for the fleet.
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Bifrost[/COLOR][/SIZE]
 [SPOILER="HORDE Bifrost MWD/AB"]
-[FIt=Shield-Shared/Shield-Bifrost]
+[Fit=Shield-Shared/Shield-Bifrost]
 [/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Stork[/COLOR][/SIZE]
 [SPOILER="HORDE Stork MWD/AB"]
