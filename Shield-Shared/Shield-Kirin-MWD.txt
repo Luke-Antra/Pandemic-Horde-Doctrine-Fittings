@@ -6,7 +6,7 @@ Mark I Compact Power Diagnostic System
 5MN Quad LiF Restrained Microwarpdrive
 Multispectrum Shield Hardener II
 Small F-RX Compact Capacitor Booster
-EM Ward Amplifier II
+EM Shield Amplifier II
 Republic Fleet Medium Shield Extender
 
 Small Asymmetric Enduring Remote Shield Booster

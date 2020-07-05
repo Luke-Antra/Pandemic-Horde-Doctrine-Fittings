@@ -7,7 +7,7 @@ Capacitor Power Relay II
 Damage Control II
 
 50MN Cold-Gas Enduring Microwarpdrive
-EM Ward Amplifier II
+EM Shield Amplifier II
 Large Shield Extender II
 Multispectrum Shield Hardener II
 

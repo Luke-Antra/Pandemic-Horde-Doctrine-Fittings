@@ -7,7 +7,7 @@ IFFA Compact Damage Control
 5MN Y-T8 Compact Microwarpdrive
 Republic Fleet Medium Shield Extender
 Multispectrum Shield Hardener II
-EM Ward Amplifier II
+EM Shield Amplifier II
 Republic Fleet Medium Shield Extender
 
 Skirmish Command Burst II

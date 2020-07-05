@@ -5,7 +5,7 @@ Warp Core Stabilizer II
 
 5MN Cold-Gas Enduring Microwarpdrive
 Medium F-S9 Regolith Compact Shield Extender
-EM Ward Amplifier II
+EM Shield Amplifier II
 Thermal Dissipation Amplifier II
 
 Bomb Launcher I

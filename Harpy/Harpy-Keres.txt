@@ -7,7 +7,7 @@ Power Diagnostic System II
 5MN Cold-Gas Enduring Microwarpdrive
 Medium Shield Extender II
 Warp Disruptor II
-EM Ward Amplifier II
+EM Shield Amplifier II
 Multispectrum Shield Hardener II
 
 125mm Gatling AutoCannon II
