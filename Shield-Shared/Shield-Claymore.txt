@@ -1,4 +1,4 @@
-[Claymore, [HORDE] Links Claymore v2.1]
+[Claymore, [HORDE] Links Claymore v2.2]
 
 Damage Control II
 Power Diagnostic System II
@@ -18,10 +18,17 @@ Medium Plasma Smartbomb II
 Medium Plasma Smartbomb II
 Heavy Missile Launcher II
 Heavy Missile Launcher II
+[Empty High slot]
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
+
+Hornet EC-300 x5
+Warrior II x10
+
+
+Scourge Precision Heavy Missile x1500
 Caldari Navy Mjolnir Heavy Missile x1500
 Electronic Hardening Charge x600
 Electronic Superiority Charge x600
@@ -34,14 +41,11 @@ Evasive Maneuvers Charge x600
 Interdiction Maneuvers Charge x600
 Rapid Deployment Charge x600
 Mobile Depot x1
+Agency 'Overclocker' SB5 Dose II x2
 Standard Mindflood Booster x3
-
+Eifyr and Co. 'Rogue' High Speed Maneuvering HS-903 x1
+Zor's Custom Navigation Hyper-Link x1
 Information Command Burst II x2
 Shield Command Burst II x2
-
-10MN Afterburner II x1
-Agency 'Overclocker' SB5 Dose II x2
-Scourge Precision Heavy Missile x1500
 Overdrive Injector System II x1
-Zor's Custom Navigation Hyper-Link x1
-Eifyr and Co. 'Rogue' High Speed Maneuvering HS-903 x1
+10MN Afterburner II x1

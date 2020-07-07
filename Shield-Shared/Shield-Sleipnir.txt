@@ -1,4 +1,4 @@
-[Sleipnir, [HORDE] Links Sleipnir v2.0]
+[Sleipnir, [HORDE] Links Sleipnir v2.1]
 
 Damage Control II
 Power Diagnostic System II
@@ -22,6 +22,10 @@ Skirmish Command Burst II
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
+
+
+Hornet EC-300 x5
+
 
 Electronic Hardening Charge x600
 Electronic Superiority Charge x600
