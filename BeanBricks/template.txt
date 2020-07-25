@@ -58,6 +58,17 @@ Newbeans: Fly tackle frig with scram and web fit![/SIZE]
 [/SPOILER]
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Support[/U][/B][/COLOR][/SIZE]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Devoter[/COLOR][/SIZE]
+[SPOILER="Devoter"]
+[Fit=Armor-Shared/Armor-Devoter]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Ashimmu[/COLOR][/SIZE]
+[SPOILER="Ashimmu"]
+[Fit=BeanBricks-Ashimmu]
+[/SPOILER]
+
 [SIZE=5][COLOR=rgb(251, 160, 38)]Heretic[/COLOR][/SIZE]
 [SPOILER="Heretic"]
 [Fit=Armor-Shared/Armor-Heretic]
