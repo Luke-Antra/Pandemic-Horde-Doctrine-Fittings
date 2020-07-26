@@ -1,14 +1,13 @@
-[Stabber, Meteor Stabber MK.5]
-
+[Stabber, Meteor Stabber MK.6]
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II
 Damage Control I
 
-Large Azeotropic Restrained Shield Extender
-Large Azeotropic Restrained Shield Extender
-50MN Y-T8 Compact Microwarpdrive
 Faint Epsilon Scoped Warp Scrambler
+50MN Y-T8 Compact Microwarpdrive
+Large Azeotropic Restrained Shield Extender
+X5 Enduring Stasis Webifier
 
 Experimental SV-2000 Rapid Light Missile Launcher
 Experimental SV-2000 Rapid Light Missile Launcher
@@ -20,10 +19,13 @@ Experimental SV-2000 Rapid Light Missile Launcher
 Medium EM Shield Reinforcer I
 Medium EM Shield Reinforcer I
 Medium Thermal Shield Reinforcer I
+
 Hornet EC-300 x5
-Mjolnir Light Missile x200
-Nova Light Missile x200
-EMP M x1200
+
 Fusion M x1200
 Phased Plasma M x1200
-X5 Enduring Stasis Webifier x1
+EMP M x1200
+Mjolnir Light Missile x200
+Nova Light Missile x200
+Gyrostabilizer I x3
+Large Azeotropic Restrained Shield Extender x1
