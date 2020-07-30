@@ -1,0 +1,38 @@
+[Eos, Armor Links Eos]
+
+Damage Control II
+Imperial Navy 1600mm Steel Plates
+Syndicate 1600mm Steel Plates
+Energized Adaptive Nano Membrane II
+Core X-Type Explosive Armor Hardener
+Core X-Type EM Armor Hardener
+Reactive Armor Hardener
+
+10MN Y-S8 Compact Afterburner
+Small Capacitor Booster II
+Target Painter II
+50MN Y-T8 Compact Microwarpdrive
+
+Skirmish Command Burst II
+Skirmish Command Burst II
+Small EMP Smartbomb II
+Small EMP Smartbomb II
+125mm Gatling AutoCannon I
+
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+
+Acolyte II x5
+Bouncer II x5
+Hornet EC-300 x5
+Valkyrie II x5
+Vespa II x5
+Warrior II x5
+
+Navy Cap Booster 400 x30
+Nanite Repair Paste x250
+EMP S x5000
+Evasive Maneuvers Charge x300
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x300
+Agency 'Overclocker' SB5 Dose II x1

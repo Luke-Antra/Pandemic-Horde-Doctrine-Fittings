@@ -35,9 +35,8 @@
 [SPOILER="Armor Links Damnation"]
 [Fit=Armor-Shared/Armor-Damnation]
 [/SPOILER]
-[SIZE=5][COLOR=rgb(251, 160, 38)]Astarte - [/COLOR][/SIZE][COLOR=rgb(247, 218, 100)]Another powerful links ship. The Astarte gets bonuses to skirmish links, however, not as tanky as the Damnation.[/COLOR]
-[SPOILER="Armor Links Astarte"]
-[Fit=Armor-Shared/Armor-Astarte]
+[SPOILER="Links Eos"]
+[Fit=Armor-Shared/Armor-Eos]
 [/SPOILER]
 
 [COLOR=rgb(84, 172, 210)][SIZE=6][B][U]Support[/U][/B][/SIZE][/COLOR]

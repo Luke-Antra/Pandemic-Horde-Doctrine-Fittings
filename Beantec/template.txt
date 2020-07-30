@@ -54,8 +54,8 @@ Standard Drop Booster
 [SPOILER="Armor Links Damnation"]
 [Fit=Armor-Shared/Armor-Damnation]
 [/SPOILER]
-[SPOILER="Armor Links Astarte"]
-[Fit=Armor-Shared/Armor-Astarte]
+[SPOILER="Eos"]
+[Fit=Armor-Shared/Armor-Eos]
 [/SPOILER]
 
 [COLOR=rgb(84, 172, 210)][B][U][SIZE=6]SUPPORT[/SIZE][/U][/B][/COLOR]

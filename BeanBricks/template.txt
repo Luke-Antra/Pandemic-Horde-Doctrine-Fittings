@@ -47,6 +47,11 @@ Newbeans: Fly tackle frig with scram and web fit![/SIZE]
 [SPOILER="Damnation"]
 [Fit=Armor-Shared/Armor-Damnation]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Eos[/COLOR][/SIZE]
+[SPOILER="Eos"]
+[Fit=Armor-Shared/Armor-Eos]
+[/SPOILER]
+
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Pontifex - [/COLOR][/SIZE]Refit to afterburner.
 [SPOILER="Pontifex"]
