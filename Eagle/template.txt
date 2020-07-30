@@ -42,12 +42,6 @@ Similar to the Logistics wing, there are some choice links ships depending on wh
 [Fit=Shield-Shared/Shield-Claymore]
 [/SPOILER]
 
-[SIZE=5][COLOR=rgb(251, 160, 38)]Sleipnir - [/COLOR][/SIZE]Not quite as tanky as the Claymore, but able to hit targets out to ~85KM. SB5 drug is required to keep up.
-[SPOILER="Horde Shield Links Sleipnir"]
-[Fit=Shield-Shared/Shield-Sleipnir]
-[/SPOILER]
-
-
 [COLOR=rgb(84, 172, 210)][B][U][SIZE=6]SUPPORT[/SIZE][/U][/B][/COLOR]
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Huginn - [/COLOR][/SIZE]Depending on what the FC calls for, with Eagles often flying outside of web range it can be good to utilize the Huginn's painting bonuses to allow for better Eagle application.

@@ -42,6 +42,7 @@ Interdiction Maneuvers Charge x600
 Rapid Deployment Charge x600
 Mobile Depot x1
 Agency 'Overclocker' SB5 Dose II x2
+Large Shield Extender II x1
 Standard Mindflood Booster x3
 Eifyr and Co. 'Rogue' High Speed Maneuvering HS-903 x1
 Zor's Custom Navigation Hyper-Link x1
