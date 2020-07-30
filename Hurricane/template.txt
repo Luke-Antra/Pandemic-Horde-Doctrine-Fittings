@@ -49,10 +49,6 @@ Similar to the Logistics wing, there are some choice links ships depending on wh
 [Fit=Shield-Shared/Shield-Claymore]
 [/SPOILER]
 
-[SIZE=5][COLOR=rgb(251, 160, 38)]Sleipnir - [/COLOR][/SIZE]Only use if specifically called for by FC for important objectives.
-[SPOILER="Horde Shield Links Sleipnir"]
-[Fit=Shield-Shared/Shield-Sleipnir]
-[/SPOILER]
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Support[/U][/B][/COLOR][/SIZE]
 
