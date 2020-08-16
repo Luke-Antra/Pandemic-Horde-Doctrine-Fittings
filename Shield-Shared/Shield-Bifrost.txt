@@ -23,3 +23,12 @@ Evasive Maneuvers Charge x300
 Interdiction Maneuvers Charge x300
 Rapid Deployment Charge x300
 1MN Afterburner II x1
+Electronic Hardening Charge x300
+Electronic Superiority Charge x300
+Sensor Optimization Charge x300
+Active Shielding Charge x300
+Shield Extension Charge x300
+Shield Harmonizing Charge x300
+Evasive Maneuvers Charge x300
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x300
