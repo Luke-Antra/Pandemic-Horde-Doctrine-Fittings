@@ -3,9 +3,9 @@
 Damage Control II
 Imperial Navy 1600mm Steel Plates
 Imperial Navy 1600mm Steel Plates
-True Sansha Energized Adaptive Nano Membrane
-Centum A-Type Energized EM Membrane
-Corpum A-Type Energized Thermal Membrane
+True Sansha Multispectrum Energized Membrane
+Centum A-Type EM Energized Membrane
+Corpum A-Type Thermal Energized Membrane
 
 10MN Afterburner II
 Small Capacitor Booster II

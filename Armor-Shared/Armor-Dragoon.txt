@@ -1,8 +1,8 @@
 [Dragoon, Defender Dragoon]
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 400mm Steel Plates II
 Damage Control II
-Explosive Plating II
+Explosive Coating II
 
 1MN Monopropellant Enduring Afterburner
 Faint Epsilon Scoped Warp Scrambler

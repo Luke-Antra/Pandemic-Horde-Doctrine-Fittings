@@ -26,9 +26,9 @@ Medium Core Defense Field Extender I
 
 Hornet EC-300 x5
 
+Navy Cap Booster 400 x28
+Caldari Navy Antimatter Charge M x2000
 Caldari Navy Thorium Charge M x2000
 Caldari Navy Iridium Charge M x2000
-Caldari Navy Iron Charge M x2000
-Caldari Navy Antimatter Charge M x2000
-Navy Cap Booster 400 x20
 Nanite Repair Paste x100
+Caldari Navy Iron Charge M x2000

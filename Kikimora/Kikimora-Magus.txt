@@ -1,9 +1,9 @@
 [Magus, Ricardomoras]
 
 400mm Rolled Tungsten Compact Plates
-Adaptive Nano Plating II
+Multispectrum Coating II
 Damage Control II
-Adaptive Nano Plating II
+Multispectrum Coating II
 
 Micro Jump Field Generator
 1MN Y-S8 Compact Afterburner

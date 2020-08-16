@@ -92,11 +92,11 @@ Standard Drop Booster
 [Legion, Anti-Bomb Legion [MWD]]
 
 Damage Control II
-Coreli A-Type Adaptive Nano Plating
+Coreli A-Type Multispectrum Coating
 Syndicate 1600mm Steel Plates
 Corpus X-Type Armor Thermal Hardener
 Corpus X-Type Armor EM Hardener
-Corpum A-Type Energized Kinetic Membrane
+Corpum A-Type Kinetic Energized Membrane
 Heat Sink II
 
 50MN Y-T8 Compact Microwarpdrive
@@ -134,7 +134,7 @@ Tracking Speed Disruption Script x2
 [Loki, Beanstorm Web Loki [MWD]]
 
 Corpus X-Type Armor Explosive Hardener
-Imperial Navy Energized Adaptive Nano Membrane
+Imperial Navy Multispectrum Energized Membrane
 1600mm Rolled Tungsten Compact Plates
 Imperial Navy 1600mm Steel Plates
 Corpus X-Type Armor Kinetic Hardener

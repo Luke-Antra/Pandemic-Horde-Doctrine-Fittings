@@ -1,8 +1,8 @@
 [Legion, Anti-Bomb Legion]
 Damage Control II
-Coreli A-Type Adaptive Nano Plating
+Coreli A-Type Multispectrum Coating
 1600mm Steel Plates II
-Corpum A-Type Energized Kinetic Membrane
+Corpum A-Type Kinetic Energized Membrane
 Heat Sink II
 Corpus X-Type Thermal Armor Hardener
 Corpus X-Type EM Armor Hardener

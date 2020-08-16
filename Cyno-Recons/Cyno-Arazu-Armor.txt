@@ -1,7 +1,7 @@
 [Arazu, [REKTD] Cyno Armor Recon IV and V]
 
 1600mm Steel Plates II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 Damage Control II
 Explosive Armor Hardener II
 
@@ -9,8 +9,8 @@ Explosive Armor Hardener II
 Warp Disruptor II
 Warp Scrambler II
 Warp Scrambler II
-Sensor Booster II, Scan Resolution Script
-Medium Capacitor Booster II, Navy Cap Booster 400
+Sensor Booster II
+Medium Capacitor Booster II
 
 Covert Ops Cloaking Device II
 Cynosural Field Generator I
@@ -20,11 +20,11 @@ Small EMP Smartbomb II
 Medium Trimark Armor Pump I
 Medium Trimark Armor Pump I
 
-
-Hornet EC-300 x5
 Warrior II x3
+Hornet EC-300 x5
 
-
-Navy Cap Booster 400 x8
+Scan Resolution Script x1
 Nanite Repair Paste x50
+Navy Cap Booster 400 x7
 Liquid Ozone x500
+

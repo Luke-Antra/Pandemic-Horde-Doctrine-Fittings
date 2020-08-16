@@ -1,7 +1,7 @@
 [Guardian, [HORDE] Guardian [AB][LOGI IV] v2.0]
 
 1600mm Steel Plates II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 True Sansha EM Armor Hardener
 Dark Blood Thermal Armor Hardener
 Damage Control II

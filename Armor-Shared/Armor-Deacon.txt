@@ -2,12 +2,12 @@
 
 400mm Rolled Tungsten Compact Plates
 Damage Control II
-Energized Adaptive Nano Membrane II
-True Sansha Adaptive Nano Plating
-True Sansha Energized Thermal Membrane
+Multispectrum Energized Membrane II
+True Sansha Multispectrum Coating
+True Sansha Thermal Energized Membrane
 
 5MN Y-T8 Compact Microwarpdrive
-Small Capacitor Booster II, Navy Cap Booster 200
+Small Capacitor Booster II
 
 Coreli A-Type Small Remote Armor Repairer
 Coreli A-Type Small Remote Armor Repairer
@@ -21,3 +21,4 @@ Warrior II x1
 Standard Mindflood Booster x1
 Nanite Repair Paste x300
 1MN Afterburner II x1
+Navy Cap Booster 200 x37

@@ -29,7 +29,7 @@ Hornet EC-300 x5
 Electronic Hardening Charge x300
 Electronic Superiority Charge x300
 Sensor Optimization Charge x300
-Caldari Navy Mjolnir Light Missile x500
+Caldari Navy Mjolnir Light Missile x2000
 Nanite Repair Paste x100
 Active Shielding Charge x300
 Shield Extension Charge x300

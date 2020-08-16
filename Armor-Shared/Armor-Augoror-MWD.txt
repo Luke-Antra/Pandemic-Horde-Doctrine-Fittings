@@ -1,8 +1,8 @@
 [Augoror, Beanstorm Augoror MWD]
 800mm Steel Plates II
 Damage Control II
-Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 Mark I Compact Reactor Control Unit
 
 50MN Cold-Gas Enduring Microwarpdrive
@@ -24,5 +24,5 @@ Acolyte II x4
 Targeting Range Script x1
 Scan Resolution Script x1
 Nanite Repair Paste x25
-Navy Cap Booster 400 x26
+Navy Cap Booster 400 x32
 ECCM Script x1

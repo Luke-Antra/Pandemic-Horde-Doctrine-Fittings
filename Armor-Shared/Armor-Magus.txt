@@ -2,8 +2,8 @@
 
 Damage Control II
 400mm Crystalline Carbonide Restrained Plates
-Coreli A-Type Explosive Plating
-Adaptive Nano Plating II
+Coreli A-Type Explosive Coating
+Multispectrum Coating II
 
 5MN Quad LiF Restrained Microwarpdrive
 Micro Jump Field Generator

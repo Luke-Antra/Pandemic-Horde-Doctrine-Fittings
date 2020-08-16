@@ -1,7 +1,7 @@
 [Heretic, Armor Fleet Heretic]
 Damage Control II
 400mm Steel Plates II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 
 5MN Y-T8 Compact Microwarpdrive
 Stasis Webifier II

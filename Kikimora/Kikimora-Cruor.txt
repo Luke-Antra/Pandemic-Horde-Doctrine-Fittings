@@ -1,7 +1,7 @@
 [Cruor, Ricardomora Cruor]
 
 400mm Steel Plates II
-Adaptive Nano Plating II
+Multispectrum Coating II
 Damage Control II
 Micro Auxiliary Power Core I
 

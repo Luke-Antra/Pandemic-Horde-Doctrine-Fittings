@@ -1,12 +1,12 @@
 [Thalia, Armor Thalia]
 400mm Rolled Tungsten Compact Plates
 Damage Control II
-Energized Adaptive Nano Membrane II
-True Sansha Adaptive Nano Plating
+Multispectrum Energized Membrane II
+True Sansha Multispectrum Coating
 
 5MN Quad LiF Restrained Microwarpdrive
 Sensor Booster II
-Small Electrochemical Capacitor Booster I
+Small F-RX Compact Capacitor Booster
 
 Coreli A-Type Small Remote Armor Repairer
 Coreli A-Type Small Remote Armor Repairer
@@ -15,6 +15,9 @@ Coreli A-Type Small Remote Armor Repairer
 Small Ancillary Current Router II
 Small Trimark Armor Pump II
 
+Warrior II x1
+
 Scan Resolution Script x1
-Navy Cap Booster 200 x20
+Navy Cap Booster 200 x38
 1MN Afterburner II x1
+

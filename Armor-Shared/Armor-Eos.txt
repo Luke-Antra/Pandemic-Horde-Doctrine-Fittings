@@ -3,7 +3,7 @@
 Damage Control II
 Imperial Navy 1600mm Steel Plates
 Syndicate 1600mm Steel Plates
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 Core X-Type Explosive Armor Hardener
 Core X-Type EM Armor Hardener
 Reactive Armor Hardener
@@ -29,7 +29,7 @@ Valkyrie II x5
 Vespa II x5
 Warrior II x5
 
-Navy Cap Booster 400 x30
+Navy Cap Booster 400 x29
 Nanite Repair Paste x250
 EMP S x5000
 Evasive Maneuvers Charge x300

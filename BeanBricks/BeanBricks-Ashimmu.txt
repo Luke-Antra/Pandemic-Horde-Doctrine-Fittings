@@ -24,6 +24,7 @@ Medium EM Armor Reinforcer I
 Warrior II x8
 
 Nanite Repair Paste x200
-Navy Cap Booster 400 x36
+Navy Cap Booster 400 x32
 Agency 'Overclocker' SB5 Dose II x3
 Standard Mindflood Booster x3
+

@@ -1,14 +1,13 @@
 [Oneiros, [HORDE]Oneiros, Beantec 1.1]
-
 Explosive Armor Hardener II
 1600mm Steel Plates II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 EM Armor Hardener II
 Damage Control II
 
 50MN Quad LiF Restrained Microwarpdrive
-Sensor Booster II, Scan Resolution Script
-Medium Capacitor Booster II, Navy Cap Booster 800
+Sensor Booster II
+Medium Capacitor Booster II
 10MN Afterburner II
 
 Large I-ax Enduring Remote Armor Repairer
@@ -19,10 +18,12 @@ Medium Remote Armor Repairer II
 Medium Trimark Armor Pump II
 Medium Trimark Armor Pump II
 
-Hornet EC-300 x5
 Warrior II x5
+Hornet EC-300 x5
 
-Nanite Repair Paste x200
 Targeting Range Script x1
-Navy Cap Booster 800 x23
+Scan Resolution Script x1
 ECCM Script x1
+Nanite Repair Paste x200
+Navy Cap Booster 800 x23
+

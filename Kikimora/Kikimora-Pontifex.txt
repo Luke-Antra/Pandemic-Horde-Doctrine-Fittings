@@ -2,9 +2,9 @@
 
 400mm Rolled Tungsten Compact Plates
 Damage Control II
-Adaptive Nano Plating II
-Energized Adaptive Nano Membrane II
-Adaptive Nano Plating II
+Multispectrum Coating II
+Multispectrum Energized Membrane II
+Multispectrum Coating II
 
 1MN Y-S8 Compact Afterburner
 Micro Jump Field Generator

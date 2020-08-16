@@ -1,8 +1,8 @@
-Energized Thermal Membrane II x1
-Energized Kinetic Membrane II x1
-Energized Explosive Membrane II x1
+Thermal Energized Membrane II x1
+Kinetic Energized Membrane II x1
+Explosive Energized Membrane II x1
 EM Armor Hardener II x1
-Energized Adaptive Nano Membrane II x1
+Multispectrum Energized Membrane II x1
 Damage Control II x1
 
 Warp Scrambler II x1

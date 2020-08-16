@@ -158,8 +158,8 @@ Liquid Ozone x600[/SPOILER]
 
 1600mm Steel Plates II
 1600mm Crystalline Carbonide Restrained Plates
-Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 Damage Control II
 
 50MN Y-T8 Compact Microwarpdrive
@@ -190,8 +190,8 @@ Liquid Ozone x600[/SPOILER]
 
 1600mm Steel Plates II
 1600mm Crystalline Carbonide Restrained Plates
-Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 Damage Control II
 
 50MN Y-T8 Compact Microwarpdrive
@@ -221,7 +221,7 @@ Liquid Ozone x600[/SPOILER]
 [SPOILER="Arazu Cyno Armor"][Arazu, [REKTD] Cyno Armor Recon IV and V]
 
 1600mm Steel Plates II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 Damage Control II
 Explosive Armor Hardener II
 
@@ -252,7 +252,7 @@ Liquid Ozone x500[/SPOILER]
 [SPOILER="Rapier Cyno Armor"][Rapier, [REKTD] Cyno Armor Recon IV and V]
 
 1600mm Steel Plates II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 Explosive Armor Hardener II
 Damage Control II
 
@@ -284,7 +284,7 @@ Liquid Ozone x500[/SPOILER]
 
 Damage Control II
 1600mm Steel Plates II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 
 50MN Y-T8 Compact Microwarpdrive
 Large Azeotropic Restrained Shield Extender

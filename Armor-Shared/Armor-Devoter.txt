@@ -4,8 +4,8 @@ True Sansha EM Armor Hardener
 1600mm Steel Plates II
 1600mm Steel Plates II
 Damage Control II
-Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 Shadow Serpentis Thermal Armor Hardener
 
 Small Capacitor Booster II
@@ -25,7 +25,7 @@ Medium Trimark Armor Pump II
 Hornet EC-300 x5
 Warrior II x5
 
-Navy Cap Booster 400 x29
+Navy Cap Booster 400 x27
 Nanite Repair Paste x150
 EMP S x5000
 ECCM Script x1

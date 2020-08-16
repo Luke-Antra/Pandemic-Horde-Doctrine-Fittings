@@ -4,7 +4,7 @@
 DPS: Augoror Navy Issue
 Logi: Guardian, Oneiros, Augoror
 Links: Damnation, Loki, Legion
-Support: Pontifex, Magus, Deacon, Thalia, Web Loki, Point Proteus, Beam fit Legion, Dictors, tackle frigs
+Support: Pontifex, Magus, Deacon, Thalia, Long Point Proteus, Dictors, tackle frigates
 Newbeans: Fly tackle frig with scram and web fit![/SIZE]
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]DPS[/U][/B][/COLOR][/SIZE]
@@ -67,6 +67,11 @@ Newbeans: Fly tackle frig with scram and web fit![/SIZE]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Devoter[/COLOR][/SIZE]
 [SPOILER="Devoter"]
 [Fit=Armor-Shared/Armor-Devoter]
+[/SPOILER]
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]Long Point Proteus[/COLOR][/SIZE]
+[SPOILER="Proteus"]
+[Fit=BeanBricks-Proteus]
 [/SPOILER]
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Ashimmu[/COLOR][/SIZE]
