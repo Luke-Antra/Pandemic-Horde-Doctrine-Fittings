@@ -12,6 +12,18 @@ The Longbow Cormorants have two different variants. Like with most platforms, th
 [Fit=Cormorant-Cormorant-T2]
 [/SPOILER]
 
+[COLOR=rgb(84, 172, 210)][B][U][SIZE=6]MIST AMATIN FLEET[/SIZE][/U][/B][/COLOR]
+Mist has requested that Defender Cormorants be the norm when fleeting up for his Corm fleets. When Mist pings for corms, please use the defender Corm fits listed here.
+
+[SIZE=5][COLOR=rgb(251, 160, 38)]T1 Cormorant[/COLOR][/SIZE]
+[SPOILER="T1 Defender Cormorant"]
+[Fit=Cormorant-Cormorant-T1-Defender]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]T2 Cormorant[/COLOR][/SIZE]
+[SPOILER="T2 Cormorant"]
+[Fit=Cormorant-Cormorant-T2-Defender]
+[/SPOILER]
+
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Links[/U][/B][/COLOR][/SIZE]
 As usual, tailor your links to what is needed for the fleet. Skirmish links are most important for the lock range for the cormorants
 

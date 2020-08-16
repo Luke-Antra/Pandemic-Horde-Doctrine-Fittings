@@ -1,0 +1,29 @@
+[Cormorant, Defender Cormorant T1]
+
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+
+5MN Y-T8 Compact Microwarpdrive
+F-90 Compact Sensor Booster
+F-90 Compact Sensor Booster
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+Defender Launcher I
+
+Small Hybrid Locus Coordinator I
+Small Hybrid Locus Coordinator I
+Small Ancillary Current Router I
+
+
+Defender Missile I x50
+Caldari Navy Antimatter Charge S x2000
+Caldari Navy Iron Charge S x2000
+Nanite Repair Paste x50
+Scan Resolution Script x2
+Targeting Range Script x2
