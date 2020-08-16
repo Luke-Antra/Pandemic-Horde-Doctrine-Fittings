@@ -27,20 +27,20 @@ Medium Core Defense Field Extender II
 Hornet EC-300 x5
 
 
-Electronic Hardening Charge x600
-Electronic Superiority Charge x600
-Sensor Optimization Charge x600
+Electronic Hardening Charge x300
+Electronic Superiority Charge x300
+Sensor Optimization Charge x300
 Nanite Repair Paste x100
 Republic Fleet Depleted Uranium M x500
 Republic Fleet EMP M x500
 Republic Fleet Fusion M x500
 Republic Fleet Phased Plasma M x500
-Active Shielding Charge x600
-Shield Extension Charge x600
-Shield Harmonizing Charge x600
+Active Shielding Charge x300
+Shield Extension Charge x300
+Shield Harmonizing Charge x300
 Evasive Maneuvers Charge x1200
-Interdiction Maneuvers Charge x600
-Rapid Deployment Charge x600
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x300
 Mobile Depot x1
 Agency 'Overclocker' SB5 Dose II x3
 Standard Mindflood Booster x3

@@ -22,19 +22,19 @@ Small Trimark Armor Pump II
 Hobgoblin II x8
 Warrior II x7
 
-Armor Energizing Charge x600
-Armor Reinforcement Charge x600
-Rapid Repair Charge x600
-Electronic Hardening Charge x600
-Electronic Superiority Charge x600
-Sensor Optimization Charge x600
+Armor Energizing Charge x300
+Armor Reinforcement Charge x300
+Rapid Repair Charge x300
+Electronic Hardening Charge x300
+Electronic Superiority Charge x300
+Sensor Optimization Charge x300
 Nanite Repair Paste x75
 Republic Fleet EMP S x1500
 Republic Fleet Fusion S x1500
 Republic Fleet Phased Plasma S x1500
-Evasive Maneuvers Charge x600
-Interdiction Maneuvers Charge x600
-Rapid Deployment Charge x600
+Evasive Maneuvers Charge x300
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x300
 Information Command Burst II x2
 Skirmish Command Burst II x2
 1MN Afterburner II x1
