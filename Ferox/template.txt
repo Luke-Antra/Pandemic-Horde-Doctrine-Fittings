@@ -60,7 +60,7 @@ Similar to the Logistics wing, there are some choice links ships depending on wh
 [SPOILER="Shield Fleet Lachesis"]
 [Fit=Shield-Shared/Shield-Lachesis]
 [/SPOILER]
-[SIZE=5][COLOR=rgb(251, 160, 38)]Onyx - [/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Onyx - [/COLOR][/SIZE]Only use if specifically called for by FC for important objectives.
 [SPOILER="Shield Fleet Onyx"]
 [Fit=Shield-Shared/Shield-Onyx]
 [/SPOILER]
