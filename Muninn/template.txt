@@ -35,6 +35,14 @@ The Muninn is an incredible platform. It's fast, it's mean, it does a lot.
 [SPOILER="Huginn"]
 [Fit=Shield-Shared/Shield-Huginn]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hyena - [/COLOR][/SIZE] Smaller version of the huginn, refits as needed for webbing or painting. Web fit is the default, only use paint if FC asks you to. Refits for all variants are in cargo.
+[SPOILER="Hyena, MWD Web"]
+[Fit=Shield-Shared/Shield-Hyena-Default]
+[/SPOILER]
+[SPOILER="Hyena, MWD Paint"]
+[Fit=Shield-Shared/Shield-Hyena-Paint]
+[/SPOILER]
+
 [COLOR=rgb(247, 218, 100)]Fitting Note: Fit the Nanofiber Internal Structure II on Muninn fleets.[/COLOR]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Lachesis - [/COLOR][/SIZE]A force recon, the Lachesis is amazing at long pointing targets so they can't get away while DPS smashes them to bits.
 [SPOILER="Lachesis"]
