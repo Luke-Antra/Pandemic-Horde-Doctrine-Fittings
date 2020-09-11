@@ -35,6 +35,10 @@ T2 mods can be switched out if needed for T1 or meta, with obvious impacts to sp
 [SPOILER="Keres"]
 [Fit=Harpy-Keres]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hyena - [/COLOR][/SIZE]Webbing support ship.
+[SPOILER="Horde Shield Hyena, MWD Web"]
+[Fit=Shield-Shared/Shield-Hyena-Default]
+[/SPOILER]
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Links[/U][/B][/COLOR][/SIZE]
 
