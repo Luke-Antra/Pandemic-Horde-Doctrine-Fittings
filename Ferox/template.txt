@@ -56,6 +56,13 @@ Similar to the Logistics wing, there are some choice links ships depending on wh
 [SPOILER="Horde Shield Fleet Huginn"]
 [Fit=Shield-Shared/Shield-Huginn]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hyena - [/COLOR][/SIZE]Fittings include refits for all versions. Only use paint fit if FC calls for it.
+[SPOILER="Horde Shield Hyena, AB Web"]
+[Fit=Ferox-Hyena-Web]
+[/SPOILER]
+[SPOILER="Horde Shield Hyena, AB Paint"]
+[Fit=Ferox-Hyena-Paint]
+[/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Lachesis -[/COLOR][/SIZE]
 [SPOILER="Shield Fleet Lachesis"]
 [Fit=Shield-Shared/Shield-Lachesis]
