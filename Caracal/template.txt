@@ -49,6 +49,11 @@ As usual, tailor your links to what is needed for the fleet.
 [SPOILER="Shield Fleet Flycatcher"]
 [Fit=Shield-Shared/Shield-Flycatcher]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hyena - [/COLOR][/SIZE]Frigate size support ship with excellent web range, but not all that tanky.
+[SPOILER="Horde Shield Hyena, MWD Web"]
+[Fit=Shield-Shared/Shield-Hyena-Default]
+[/SPOILER]
+
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Other Additions[/U][/B][/COLOR][/SIZE]
 Ewar is dependent on the FC. On the whole, it will be either:
