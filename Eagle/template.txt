@@ -48,6 +48,13 @@ Similar to the Logistics wing, there are some choice links ships depending on wh
 [SPOILER="Horde Shield Fleet Huginn"]
 [Fit=Shield-Shared/Shield-Huginn]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Hyena - [/COLOR][/SIZE]A smaller version of the Huginn, with simmilar abilities. We only use the paint fit if FC calls for it. Fittings include refits for all versions.
+[SPOILER="Horde Shield Hyena, MWD Web"]
+[Fit=Shield-Shared/Shield-Hyena-Default]
+[/SPOILER]
+[SPOILER="Horde Shield Hyena, MWD Paint"]
+[Fit=Shield-Shared/Shield-Hyena-Paint]
+[/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Lachesis - [/COLOR][/SIZE]Another recon ship, the Lachesis is for pointing (tackling) from extremely long range to put pressure on the FC or keep a target from warping away.
 [SPOILER="Shield Fleet Lachesis"]
 [Fit=Shield-Shared/Shield-Lachesis]
