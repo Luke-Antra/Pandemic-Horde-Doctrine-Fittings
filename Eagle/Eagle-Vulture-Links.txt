@@ -1,0 +1,54 @@
+[Vulture, Eagle Vulture Links]
+
+Damage Control II
+Overdrive Injector System II
+Overdrive Injector System II
+Power Diagnostic System II
+
+EM Shield Hardener II
+50MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+
+250mm Railgun II, Caldari Navy Antimatter Charge M
+250mm Railgun II, Caldari Navy Antimatter Charge M
+250mm Railgun II, Caldari Navy Antimatter Charge M
+250mm Railgun II, Caldari Navy Antimatter Charge M
+250mm Railgun II, Caldari Navy Antimatter Charge M
+Shield Command Burst II
+Shield Command Burst II
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+
+Hornet EC-300 x5
+
+
+Zor's Custom Navigation Hyper-Link
+Eifyr and Co. 'Rogue' High Speed Maneuvering HS-903
+Shield Command Mindlink
+
+Quafe Zero
+Agency 'Overclocker' SB7 Dose III
+
+
+Spike M x1000
+Caldari Navy Antimatter Charge M x1000
+Caldari Navy Iridium Charge M x1000
+Caldari Navy Thorium Charge M x1000
+Caldari Navy Tungsten Charge M x1000
+Electronic Hardening Charge x300
+Electronic Superiority Charge x300
+Sensor Optimization Charge x300
+Nanite Repair Paste x100
+Active Shielding Charge x300
+Shield Extension Charge x300
+Shield Harmonizing Charge x300
+Evasive Maneuvers Charge x300
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x300
+Information Command Burst II x2
+Skirmish Command Burst II x2
