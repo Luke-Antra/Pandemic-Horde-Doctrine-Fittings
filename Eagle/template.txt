@@ -41,6 +41,10 @@ Similar to the Logistics wing, there are some choice links ships depending on wh
 [SPOILER="Horde Shield Links Claymore"]
 [Fit=Shield-Shared/Shield-Claymore]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)]Vulture - [/COLOR][/SIZE]A modification of the usual links Vulture fit specific to the Eagle doctrine. [B]Listed implants and drugs are mandatory for this fit.[/B]
+[SPOILER="Horde Eagle Links Vulture"]
+[Fit=Eagle-Vulture-Links]
+[/SPOILER]
 
 [COLOR=rgb(84, 172, 210)][B][U][SIZE=6]SUPPORT[/SIZE][/U][/B][/COLOR]
 
