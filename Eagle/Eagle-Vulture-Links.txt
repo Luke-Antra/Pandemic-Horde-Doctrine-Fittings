@@ -29,7 +29,7 @@ Hornet EC-300 x5
 
 Zor's Custom Navigation Hyper-Link
 Eifyr and Co. 'Rogue' High Speed Maneuvering HS-903
-Shield Command Mindlink
+
 
 Quafe Zero
 Agency 'Overclocker' SB7 Dose III
@@ -50,5 +50,3 @@ Shield Harmonizing Charge x300
 Evasive Maneuvers Charge x300
 Interdiction Maneuvers Charge x300
 Rapid Deployment Charge x300
-Information Command Burst II x2
-Skirmish Command Burst II x2
