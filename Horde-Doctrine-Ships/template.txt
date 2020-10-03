@@ -1,0 +1,36 @@
+[COLOR=rgb(147, 101, 184)][B][U][SIZE=7]Mainline Doctrines[/SIZE][/U][/B][/COLOR]
+
+[COLOR=rgb(239, 239, 239)]These are Horde's main doctrines. Everyone will be able to fly something in the specific fleet compositions. All ships, including support ships, will be in each doctrine thread.[/COLOR]
+
+[COLOR=rgb(239, 239, 239)][B][SIZE=4]Doctrines in BOLD[/SIZE][/B][/COLOR] [COLOR=rgb(239, 239, 239)][SIZE=4]are our most frequently used doctrines. [/SIZE][/COLOR][COLOR=rgb(251, 160, 38)][SIZE=4]Prioritize these to train and have ready to fly in[/SIZE][/COLOR][SIZE=4] [B][COLOR=rgb(251, 160, 38)]R1O-GN[/COLOR][/B][COLOR=rgb(239, 239, 239)][COLOR=rgb(239, 239, 239)], then strive to have ALL doctrines and support ships available.[/COLOR][/COLOR][/SIZE]
+
+[COLOR=rgb(44, 130, 201)][SIZE=5][U]BATTLESHIP FLEETS[/U][/SIZE][/COLOR]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/partisans-beantec-fleet-megathrons-bhaalgorns-apocalypse-v2.1155/'][COLOR=rgb(251, 160, 38)][U][B][SIZE=4]Apocalypse/Megathron (Beantec)[/SIZE][/B][/U][/COLOR][/URL]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/machariel-fleet-the-flag-ship.568/'][COLOR=rgb(251, 160, 38)][U][SIZE=4]Machariel[/SIZE][/U][/COLOR][/URL]
+
+[SIZE=5][COLOR=rgb(44, 130, 201)][U]BATTLECRUISER FLEETS[/U][/COLOR][/SIZE]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/ferox-fleet-bread-and-butter.569/'][U][COLOR=rgb(251, 160, 38)][B][SIZE=4]Ferox[/SIZE][/B][/COLOR][/U][/URL]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/hurricane-fleet-isk-positive.570/'][U][COLOR=rgb(251, 160, 38)][SIZE=4]Hurricane[/SIZE][/COLOR][/U][/URL]
+
+[SIZE=5][COLOR=rgb(44, 130, 201)][U]TECH III STRATEGIC CRUISER FLEETS[/U][/COLOR][/SIZE]
+
+[SIZE=5][COLOR=rgb(44, 130, 201)][U]CRUISER FLEETS[/U][/COLOR][/SIZE]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/caracals-and-osprey-navy-issue-fleet-rapid-light-jesus-missiles.571/'][COLOR=rgb(251, 160, 38)][U][B][SIZE=4]Caracals[/SIZE][/B][/U][/COLOR][/URL]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/muninn-fleet-hordes-hacs.980/'][SIZE=4][B][U]Muninns[/U][/B][/SIZE][/URL]
+[SIZE=4][B][U][URL='https://www.pandemic-horde.org/forum/index.php?threads/horde-aquilatech-eagle-fleet.1736/']Eagles (Aquilatech)[/URL][/U][/B]
+[B][U][URL='https://www.pandemic-horde.org/forum/index.php?threads/new-doctrine-bean-bricks-navy-aug-fleet.2114/']Bean Bricks (DEF)[/URL][/U][/B][/SIZE]
+
+
+[SIZE=5][COLOR=rgb(44, 130, 201)][U]DESTROYER FLEETS[/U][/COLOR][/SIZE]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/jackdaw-fleet.575/'][COLOR=rgb(251, 160, 38)][U][B][SIZE=4]Jackdaws[/SIZE][/B][/U][/COLOR][/URL]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/cormorant-fleet-the-longbow.573/'][U][COLOR=rgb(251, 160, 38)][B][SIZE=4]Cormorants[/SIZE][/B][/COLOR][/U][/URL]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/horde-kikimora-doctrine.2593/'][U][COLOR=rgb(251, 160, 38)][B][SIZE=4]Kikimoras (Whaling)[/SIZE][/B][/COLOR][/U][/URL]
+[SIZE=4][COLOR=rgb(0, 0, 0)][URL='https://www.pandemic-horde.org/forum/index.php?threads/svipul-fleet.574/'][U]Svipuls[/U][/URL][/COLOR]
+[COLOR=rgb(255, 255, 255)][URL='https://www.pandemic-horde.org/forum/index.php?threads/talwar-fleet.576/'][U]Talwars[/U][/URL][/COLOR]
+Thrashers[/SIZE]
+
+[SIZE=5][COLOR=rgb(44, 130, 201)][U]FRIGATE FLEETS[/U]
+[URL='https://www.pandemic-horde.org/forum/index.php?threads/horde-harpies.1799/'][COLOR=rgb(251, 160, 38)][U][SIZE=4][B]Zinotech (Harpies)[/B][/SIZE][/U][/COLOR][/URL][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(44, 130, 201)][URL='https://www.pandemic-horde.org/forum/index.php?threads/bombers-the-explosive-kind.577/'][COLOR=rgb(251, 160, 38)][U][SIZE=4][B]Bombers (Bomb)[/B][/SIZE][/U][/COLOR][/URL][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(44, 130, 201)][URL='https://www.pandemic-horde.org/forum/index.php?threads/gokufleet.1198/'][COLOR=rgb(251, 160, 38)][U][SIZE=4]Bombers (Goku)[/SIZE][/U][/COLOR][/URL][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(44, 130, 201)][URL='https://www.pandemic-horde.org/forum/index.php?threads/return-of-the-windrunners.1270/'][COLOR=rgb(251, 160, 38)][U][SIZE=4]Interceptors (Windrunners)[/SIZE][/U][/COLOR][/URL][/COLOR][/SIZE]
