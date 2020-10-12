@@ -1,52 +1,57 @@
-[Claymore, [HORDE] Links Claymore v2.2]
+[Claymore, [HORDE] Muninn Links v.2.2]
 
 Damage Control II
 Power Diagnostic System II
 Nanofiber Internal Structure II
 Overdrive Injector System II
 
-50MN Quad LiF Restrained Microwarpdrive
+50MN Cold-Gas Enduring Microwarpdrive
 Large Shield Extender II
 Multispectrum Shield Hardener II
-Pithum B-Type Kinetic Shield Amplifier
 Large Shield Extender II
-Multispectrum Shield Hardener II
+Gist X-Type Kinetic Shield Hardener
+Large Shield Extender II
 
-Skirmish Command Burst II
-Skirmish Command Burst II
+Shield Command Burst II
+Shield Command Burst II
 Medium Plasma Smartbomb II
 Medium Plasma Smartbomb II
 Heavy Missile Launcher II
 Heavy Missile Launcher II
-[Empty High slot]
+Heavy Missile Launcher II
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
 Hornet EC-300 x5
-Warrior II x10
+Infiltrator II x5
 
 
-Scourge Precision Heavy Missile x1500
+Inferno Rage Heavy Assault Missile x1500
+Mjolnir Rage Heavy Assault Missile x1500
+Nova Rage Heavy Assault Missile x1500
+Scourge Rage Heavy Assault Missile x1500
+Caldari Navy Inferno Heavy Missile x1500
 Caldari Navy Mjolnir Heavy Missile x1500
-Electronic Hardening Charge x600
-Electronic Superiority Charge x600
-Sensor Optimization Charge x600
-Nanite Repair Paste x100
-Active Shielding Charge x600
-Shield Extension Charge x600
-Shield Harmonizing Charge x600
-Evasive Maneuvers Charge x600
-Interdiction Maneuvers Charge x600
-Rapid Deployment Charge x600
-Mobile Depot x1
+Caldari Navy Nova Heavy Missile x1500
+Caldari Navy Scourge Heavy Missile x1500
+Electronic Hardening Charge x300
+Electronic Superiority Charge x300
+Sensor Optimization Charge x300
+Nanite Repair Paste x150
+Active Shielding Charge x300
+Shield Extension Charge x300
+Shield Harmonizing Charge x300
+Evasive Maneuvers Charge x300
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x300
 Agency 'Overclocker' SB5 Dose II x2
-Large Shield Extender II x1
-Standard Mindflood Booster x3
+Improved Mindflood Booster x2
+Quafe Zero x1
 Eifyr and Co. 'Rogue' High Speed Maneuvering HS-903 x1
+Eifyr and Co. 'Rogue' Navigation NN-603 x1
 Zor's Custom Navigation Hyper-Link x1
-Information Command Burst II x2
-Shield Command Burst II x2
-Overdrive Injector System II x1
+Power Diagnostic System II x2
 10MN Afterburner II x1
+Multispectrum Shield Hardener II x1
