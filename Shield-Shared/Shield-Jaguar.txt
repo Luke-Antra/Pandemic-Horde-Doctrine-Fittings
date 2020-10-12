@@ -1,0 +1,28 @@
+[Jaguar, Harpy Jaguar Mk2]
+
+Assault Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender II
+Medium Ancillary Shield Booster
+Compact Explosive Shield Amplifier
+Warp Scrambler II
+
+Rocket Launcher II
+
+Small Kinetic Shield Reinforcer II
+Small Ancillary Current Router II
+
+Hobgoblin II x4
+
+Inferno Rage Rocket x400
+Mjolnir Rage Rocket x400
+Nova Rage Rocket x400
+Scourge Rage Rocket x400
+Navy Cap Booster 50 x50
+Nanite Repair Paste x50
+Caldari Navy Inferno Rocket x550
+Caldari Navy Mjolnir Rocket x550
+Caldari Navy Nova Rocket x400

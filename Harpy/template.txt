@@ -15,7 +15,7 @@ T2 mods can be switched out if needed for T1 or meta, with obvious impacts to sp
 [/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Jaguar - [/COLOR][/SIZE]Hard tackle.
 [SPOILER="Tackle Jaguar"]
-[Fit=Harpy-Jaguar]
+[Fit=Shield-Shared/Shield-Jaguar]
 [/SPOILER]
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Logistics[/U][/B][/COLOR][/SIZE]
@@ -33,7 +33,7 @@ T2 mods can be switched out if needed for T1 or meta, with obvious impacts to sp
 
 [SIZE=5][COLOR=rgb(251, 160, 38)]Keres - [/COLOR][/SIZE]Main support ship.
 [SPOILER="Keres"]
-[Fit=Harpy-Keres]
+[Fit=Shield-Shared/Shield-Keres]
 [/SPOILER]
 [SIZE=5][COLOR=rgb(251, 160, 38)]Hyena - [/COLOR][/SIZE]Webbing support ship.
 [SPOILER="Horde Shield Hyena, MWD Web"]
