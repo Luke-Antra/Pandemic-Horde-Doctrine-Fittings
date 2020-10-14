@@ -84,6 +84,14 @@ Similar to the Logistics wing, there are some choice links ships depending on wh
 [SPOILER="Shield Fleet Flycatcher"]
 [Fit=Shield-Shared/Shield-Flycatcher]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)] Keres - [/COLOR][/SIZE]Like a small lachesis, but far less durable.
+[SPOILER="Shield Fleet Keres"]
+[Fit=Shield-Shared/Shield-Keres]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)] Jaguar - [/COLOR][/SIZE]Very tanky hard tackle.
+[SPOILER="Shield Fleet Jaguar"]
+[Fit=Shield-Shared/Shield-Jaguar]
+[/SPOILER]
 
 
 [COLOR=rgb(84, 172, 210)][U][B][SIZE=6]Other Additions[/SIZE][/B][/U][/COLOR]

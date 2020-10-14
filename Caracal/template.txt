@@ -53,6 +53,14 @@ As usual, tailor your links to what is needed for the fleet.
 [SPOILER="Horde Shield Hyena, MWD Web"]
 [Fit=Shield-Shared/Shield-Hyena-Default]
 [/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)] Keres - [/COLOR][/SIZE]Like a small lachesis, but far less durable.
+[SPOILER="Shield Fleet Keres"]
+[Fit=Shield-Shared/Shield-Keres]
+[/SPOILER]
+[SIZE=5][COLOR=rgb(251, 160, 38)] Jaguar - [/COLOR][/SIZE]Very tanky hard tackle.
+[SPOILER="Shield Fleet Jaguar"]
+[Fit=Shield-Shared/Shield-Jaguar]
+[/SPOILER]
 
 
 [SIZE=6][COLOR=rgb(84, 172, 210)][B][U]Other Additions[/U][/B][/COLOR][/SIZE]
